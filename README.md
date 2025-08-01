@@ -24,6 +24,9 @@ This repository contains a project to:
 ├── README.md
 └── requirements.txt
 
+|── etl/
+| |── extract.py
+
 ---
 
 ## 🛠 Setup
