@@ -10,31 +10,18 @@ This repository contains a project to:
 
 ## 📁 Repo Structure
 ├── etl/
-
 │ ├── extract.py
-
 │ ├── transform.py
-
 │ └── load.py
-
 ├── data/
-
 │ └── raw/ # raw CSV/XLSX downloaded
-
 ├── models/
-
 │ ├── prophet_model.ipynb
-
 │ └── xgb_model.ipynb
-
 ├── dashboard/
-
 │ └── app.py # Streamlit dashboard
-
 ├── architecture.png # The architecture diagram
-
 ├── README.md
-
 └── requirements.txt
 
 ---
