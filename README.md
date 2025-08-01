@@ -11,9 +11,7 @@ This repository contains a project to:
 ## 📁 Repo Structure
 ```
 ├── etl/
-│ ├── extract.py
-│ ├── transform.py
-│ └── load.py
+│ └── house_etl.py
 ├── data/
 │ └── raw/ # raw CSV/XLSX downloaded
 ├── models/
