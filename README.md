@@ -32,33 +32,34 @@ This repository contains a project to:
    ```bash
    git clone https://github.com/justinminlee/house-price-pipeline.git
    cd house-price-pipeline
-Install dependencies:
-```
-pip install -r requirements.txt
-```
-Download the ABS dataset:
 
-Visit [ABS Residential Property Price Indexes][ABS]
+2. Install dependencies:
+    ```
+    pip install -r requirements.txt
+    ```
 
-Export time series data (median prices for eight capital cities)
+3. Download the ABS dataset:
 
-Save to data/raw/abs_prices.xlsx
+- Visit [ABS Residential Property Price Indexes][ABS]
 
-Run ETL:
-```
-python etl/extract.py
-python etl/transform.py
-python etl/load.py
-```
-Model training & prediction:
+- Export time series data (median prices for eight capital cities)
 
-Launch Jupyter notebooks in models/
+- Save to data/raw/abs_prices.xlsx
 
-Run forecasting models and store outputs back to PostgreSQL
+4. Run ETL:
+    ```
+    python etl/extract.py
+    python etl/transform.py
+    python etl/load.py
+    ```
 
-Serve dashboard:
+5. Model training & prediction:
 
-bash
-복사
-편집
-streamlit run dashboard/app.py
+- Launch Jupyter notebooks in models/
+
+- Run forecasting models and store outputs back to PostgreSQL
+
+6. Serve dashboard:
+    ```
+    streamlit run dashboard/app.py
+    ```
