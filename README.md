@@ -9,40 +9,28 @@ This repository contains a project to:
 - Automate the pipeline with optional components (Airflow, Docker, AWS deployment)
 
 ## 📁 Repo Structure
+₩₩₩
 ├── etl/
-ㅣ
 │ ├── extract.py
-ㅣ
 │ ├── transform.py
-ㅣ
 │ └── load.py
-ㅣ
 ├── data/
-ㅣ
 │ └── raw/ # raw CSV/XLSX downloaded
-ㅣ
 ├── models/
-ㅣ
 │ ├── prophet_model.ipynb
-ㅣ
 │ └── xgb_model.ipynb
-ㅣ
 ├── dashboard/
-ㅣ
 │ └── app.py # Streamlit dashboard
-ㅣ
 ├── architecture.png # The architecture diagram
-ㅣ
 ├── README.md
-ㅣ
 └── requirements.txt
-
+₩₩₩
 ---
 
 ## 🛠 Setup
 
 1. Clone the repo:
-   ```bash
+   ```bash 
    git clone https://github.com/justinminlee/house-price-pipeline.git
    cd house-price-pipeline
 
