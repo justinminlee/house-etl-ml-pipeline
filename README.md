@@ -9,7 +9,7 @@ This repository contains a project to:
 - Automate the pipeline with optional components (Airflow, Docker, AWS deployment)
 
 ## 📁 Repo Structure
-₩₩₩
+```
 ├── etl/
 │ ├── extract.py
 │ ├── transform.py
@@ -24,7 +24,7 @@ This repository contains a project to:
 ├── architecture.png # The architecture diagram
 ├── README.md
 └── requirements.txt
-₩₩₩
+```
 ---
 
 ## 🛠 Setup
