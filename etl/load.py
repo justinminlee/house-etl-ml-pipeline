@@ -1,16 +1,44 @@
-from transform import transform_data
-from db import engine, create_tables
+from sqlalchemy import create_engine
 import pandas as pd
+from dotenv import load_dotenv
+import os
 
-def load_data():
-    print("[Load] Starting ETL...")
-    create_tables()  # Ensure table exists
+load_dotenv()
 
-    df = transform_data()
+def get_engine():
+    USER = os.getenv("DB_USER")
+    PASSWORD = os.getenv("DB_PASS")
+    HOST = os.getenv("DB_HOST")
+    PORT = os.getenv("DB_PORT")
+    DB = os.getenv("DB_NAME")
+    if not all([USER, PASSWORD, HOST, PORT, DB]):
+        raise ValueError("Database configuration is incomplete. Please check your environment variables.")
+    
+    engine = create_engine(f"postgresql+psycopg2://{USER}:{PASSWORD}@{HOST}:{PORT}/{DB}")
+    return engine
 
-    # Load into PostgreSQL
-    df.to_sql("house_prices", engine, if_exists="append", index=False)
-    print(f"[Load] Inserted {len(df)} rows into house_prices table.")
-    print("[Load] ETL process completed successfully.")
+def load_to_postgres(df, table_name):
+    engine = get_engine()
+    with engine.begin() as conn:
+        df.to_sql(table_name, conn, if_exists="replace", index=False)
+    print(f"[Load] Uploaded {len(df)} rows into {table_name}")
+
+def load_all():
+    # Load RPPI
+    df_rppi = pd.read_csv("data/processed/rppi.csv")
+    load_to_postgres(df_rppi, "rppi")
+
+    # Load Median Transfers
+    df_median = pd.read_csv("data/processed/median_transfers.csv")
+    load_to_postgres(df_median, "median_transfers")
+
+    # Load Population
+    df_population = pd.read_csv("data/processed/population.csv")
+    load_to_postgres(df_population, "population")
+
+    # Load Net Migration
+    df_migration = pd.read_csv("data/processed/net_migration.csv")
+    load_to_postgres(df_migration, "net_migration")
+
 if __name__ == "__main__":
-    load_data()
+    load_all()

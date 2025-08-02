@@ -1,0 +1,2221 @@
+quarter,state,net_migration
+Unit,Births ;  Australia ;,000
+Series Type,Births ;  Australia ;,Original
+Data Type,Births ;  Australia ;,FLOW
+Frequency,Births ;  Australia ;,Quarter
+Collection Month,Births ;  Australia ;,3
+Series Start,Births ;  Australia ;,1981-06-01 00:00:00
+Series End,Births ;  Australia ;,2024-12-01 00:00:00
+No. Obs,Births ;  Australia ;,175
+Series ID,Births ;  Australia ;,A2133244X
+1981-06-01 00:00:00,Births ;  Australia ;,60.3
+1981-09-01 00:00:00,Births ;  Australia ;,61
+1981-12-01 00:00:00,Births ;  Australia ;,55
+1982-03-01 00:00:00,Births ;  Australia ;,60.6
+1982-06-01 00:00:00,Births ;  Australia ;,60.5
+1982-09-01 00:00:00,Births ;  Australia ;,60.3
+1982-12-01 00:00:00,Births ;  Australia ;,58.6
+1983-03-01 00:00:00,Births ;  Australia ;,61.9
+1983-06-01 00:00:00,Births ;  Australia ;,61
+1983-09-01 00:00:00,Births ;  Australia ;,62
+1983-12-01 00:00:00,Births ;  Australia ;,57.6
+1984-03-01 00:00:00,Births ;  Australia ;,61.1
+1984-06-01 00:00:00,Births ;  Australia ;,59.8
+1984-09-01 00:00:00,Births ;  Australia ;,60.7
+1984-12-01 00:00:00,Births ;  Australia ;,56.9
+1985-03-01 00:00:00,Births ;  Australia ;,62.3
+1985-06-01 00:00:00,Births ;  Australia ;,62
+1985-09-01 00:00:00,Births ;  Australia ;,60.8
+1985-12-01 00:00:00,Births ;  Australia ;,57.8
+1986-03-01 00:00:00,Births ;  Australia ;,60
+1986-06-01 00:00:00,Births ;  Australia ;,60.5
+1986-09-01 00:00:00,Births ;  Australia ;,60.8
+1986-12-01 00:00:00,Births ;  Australia ;,62.2
+1987-03-01 00:00:00,Births ;  Australia ;,59.1
+1987-06-01 00:00:00,Births ;  Australia ;,60.8
+1987-09-01 00:00:00,Births ;  Australia ;,61.5
+1987-12-01 00:00:00,Births ;  Australia ;,62.6
+1988-03-01 00:00:00,Births ;  Australia ;,61.5
+1988-06-01 00:00:00,Births ;  Australia ;,60.6
+1988-09-01 00:00:00,Births ;  Australia ;,62.2
+1988-12-01 00:00:00,Births ;  Australia ;,62
+1989-03-01 00:00:00,Births ;  Australia ;,63.4
+1989-06-01 00:00:00,Births ;  Australia ;,62.7
+1989-09-01 00:00:00,Births ;  Australia ;,61.9
+1989-12-01 00:00:00,Births ;  Australia ;,62.9
+1990-03-01 00:00:00,Births ;  Australia ;,65
+1990-06-01 00:00:00,Births ;  Australia ;,67.7
+1990-09-01 00:00:00,Births ;  Australia ;,65.8
+1990-12-01 00:00:00,Births ;  Australia ;,64.1
+1991-03-01 00:00:00,Births ;  Australia ;,64.9
+1991-06-01 00:00:00,Births ;  Australia ;,66.3
+1991-09-01 00:00:00,Births ;  Australia ;,65.3
+1991-12-01 00:00:00,Births ;  Australia ;,62.8
+1992-03-01 00:00:00,Births ;  Australia ;,65.7
+1992-06-01 00:00:00,Births ;  Australia ;,65.8
+1992-09-01 00:00:00,Births ;  Australia ;,67.2
+1992-12-01 00:00:00,Births ;  Australia ;,63.9
+1993-03-01 00:00:00,Births ;  Australia ;,64.3
+1993-06-01 00:00:00,Births ;  Australia ;,65.1
+1993-09-01 00:00:00,Births ;  Australia ;,66
+1993-12-01 00:00:00,Births ;  Australia ;,63.7
+1994-03-01 00:00:00,Births ;  Australia ;,65.3
+1994-06-01 00:00:00,Births ;  Australia ;,63.9
+1994-09-01 00:00:00,Births ;  Australia ;,66
+1994-12-01 00:00:00,Births ;  Australia ;,63.8
+1995-03-01 00:00:00,Births ;  Australia ;,64.5
+1995-06-01 00:00:00,Births ;  Australia ;,64.3
+1995-09-01 00:00:00,Births ;  Australia ;,65.3
+1995-12-01 00:00:00,Births ;  Australia ;,61.2
+1996-03-01 00:00:00,Births ;  Australia ;,62.3
+1996-06-01 00:00:00,Births ;  Australia ;,62
+1996-09-01 00:00:00,Births ;  Australia ;,65.3
+1996-12-01 00:00:00,Births ;  Australia ;,63.8
+1997-03-01 00:00:00,Births ;  Australia ;,61.6
+1997-06-01 00:00:00,Births ;  Australia ;,63.6
+1997-09-01 00:00:00,Births ;  Australia ;,64.5
+1997-12-01 00:00:00,Births ;  Australia ;,62.1
+1998-03-01 00:00:00,Births ;  Australia ;,60.9
+1998-06-01 00:00:00,Births ;  Australia ;,62.3
+1998-09-01 00:00:00,Births ;  Australia ;,64.3
+1998-12-01 00:00:00,Births ;  Australia ;,61.5
+1999-03-01 00:00:00,Births ;  Australia ;,62.2
+1999-06-01 00:00:00,Births ;  Australia ;,62.7
+1999-09-01 00:00:00,Births ;  Australia ;,64.8
+1999-12-01 00:00:00,Births ;  Australia ;,61.4
+2000-03-01 00:00:00,Births ;  Australia ;,62.2
+2000-06-01 00:00:00,Births ;  Australia ;,62.1
+2000-09-01 00:00:00,Births ;  Australia ;,64.1
+2000-12-01 00:00:00,Births ;  Australia ;,62.3
+2001-03-01 00:00:00,Births ;  Australia ;,61.1
+2001-06-01 00:00:00,Births ;  Australia ;,61.8
+2001-09-01 00:00:00,Births ;  Australia ;,64.2
+2001-12-01 00:00:00,Births ;  Australia ;,60.8
+2002-03-01 00:00:00,Births ;  Australia ;,62.5
+2002-06-01 00:00:00,Births ;  Australia ;,61.9
+2002-09-01 00:00:00,Births ;  Australia ;,63.9
+2002-12-01 00:00:00,Births ;  Australia ;,61.8
+2003-03-01 00:00:00,Births ;  Australia ;,61
+2003-06-01 00:00:00,Births ;  Australia ;,62.5
+2003-09-01 00:00:00,Births ;  Australia ;,64.9
+2003-12-01 00:00:00,Births ;  Australia ;,62.3
+2004-03-01 00:00:00,Births ;  Australia ;,63.5
+2004-06-01 00:00:00,Births ;  Australia ;,61.3
+2004-09-01 00:00:00,Births ;  Australia ;,65
+2004-12-01 00:00:00,Births ;  Australia ;,61.7
+2005-03-01 00:00:00,Births ;  Australia ;,64.6
+2005-06-01 00:00:00,Births ;  Australia ;,67
+2005-09-01 00:00:00,Births ;  Australia ;,68.1
+2005-12-01 00:00:00,Births ;  Australia ;,65.9
+2006-03-01 00:00:00,Births ;  Australia ;,65.3
+2006-06-01 00:00:00,Births ;  Australia ;,66.8
+2006-09-01 00:00:00,Births ;  Australia ;,72.6
+2006-12-01 00:00:00,Births ;  Australia ;,69.7
+2007-03-01 00:00:00,Births ;  Australia ;,72.7
+2007-06-01 00:00:00,Births ;  Australia ;,72.3
+2007-09-01 00:00:00,Births ;  Australia ;,75.6
+2007-12-01 00:00:00,Births ;  Australia ;,72.6
+2008-03-01 00:00:00,Births ;  Australia ;,74.1
+2008-06-01 00:00:00,Births ;  Australia ;,72.9
+2008-09-01 00:00:00,Births ;  Australia ;,76.7
+2008-12-01 00:00:00,Births ;  Australia ;,74.6
+2009-03-01 00:00:00,Births ;  Australia ;,73.9
+2009-06-01 00:00:00,Births ;  Australia ;,74.9
+2009-09-01 00:00:00,Births ;  Australia ;,76.5
+2009-12-01 00:00:00,Births ;  Australia ;,75.5
+2010-03-01 00:00:00,Births ;  Australia ;,76
+2010-06-01 00:00:00,Births ;  Australia ;,76
+2010-09-01 00:00:00,Births ;  Australia ;,76.3
+2010-12-01 00:00:00,Births ;  Australia ;,72.5
+2011-03-01 00:00:00,Births ;  Australia ;,76
+2011-06-01 00:00:00,Births ;  Australia ;,76.3
+2011-09-01 00:00:00,Births ;  Australia ;,76.2
+2011-12-01 00:00:00,Births ;  Australia ;,74.2
+2012-03-01 00:00:00,Births ;  Australia ;,78.1
+2012-06-01 00:00:00,Births ;  Australia ;,77.5
+2012-09-01 00:00:00,Births ;  Australia ;,78.7
+2012-12-01 00:00:00,Births ;  Australia ;,77.9
+2013-03-01 00:00:00,Births ;  Australia ;,77.4
+2013-06-01 00:00:00,Births ;  Australia ;,77.1
+2013-09-01 00:00:00,Births ;  Australia ;,76.9
+2013-12-01 00:00:00,Births ;  Australia ;,75.7
+2014-03-01 00:00:00,Births ;  Australia ;,77.5
+2014-06-01 00:00:00,Births ;  Australia ;,76.9
+2014-09-01 00:00:00,Births ;  Australia ;,79
+2014-12-01 00:00:00,Births ;  Australia ;,77.1
+2015-03-01 00:00:00,Births ;  Australia ;,76.2
+2015-06-01 00:00:00,Births ;  Australia ;,75.4
+2015-09-01 00:00:00,Births ;  Australia ;,78.8
+2015-12-01 00:00:00,Births ;  Australia ;,75.9
+2016-03-01 00:00:00,Births ;  Australia ;,78.8
+2016-06-01 00:00:00,Births ;  Australia ;,78.2
+2016-09-01 00:00:00,Births ;  Australia ;,79
+2016-12-01 00:00:00,Births ;  Australia ;,75.8
+2017-03-01 00:00:00,Births ;  Australia ;,76.7
+2017-06-01 00:00:00,Births ;  Australia ;,76.3
+2017-09-01 00:00:00,Births ;  Australia ;,77.7
+2017-12-01 00:00:00,Births ;  Australia ;,74.5
+2018-03-01 00:00:00,Births ;  Australia ;,76.5
+2018-06-01 00:00:00,Births ;  Australia ;,75.9
+2018-09-01 00:00:00,Births ;  Australia ;,76.5
+2018-12-01 00:00:00,Births ;  Australia ;,75.3
+2019-03-01 00:00:00,Births ;  Australia ;,76.5
+2019-06-01 00:00:00,Births ;  Australia ;,76.4
+2019-09-01 00:00:00,Births ;  Australia ;,76.8
+2019-12-01 00:00:00,Births ;  Australia ;,74.3
+2020-03-01 00:00:00,Births ;  Australia ;,74.6
+2020-06-01 00:00:00,Births ;  Australia ;,73.6
+2020-09-01 00:00:00,Births ;  Australia ;,74.3
+2020-12-01 00:00:00,Births ;  Australia ;,71.2
+2021-03-01 00:00:00,Births ;  Australia ;,80.2
+2021-06-01 00:00:00,Births ;  Australia ;,79.4
+2021-09-01 00:00:00,Births ;  Australia ;,78.5
+2021-12-01 00:00:00,Births ;  Australia ;,77.1
+2022-03-01 00:00:00,Births ;  Australia ;,76.8
+2022-06-01 00:00:00,Births ;  Australia ;,76.3
+2022-09-01 00:00:00,Births ;  Australia ;,74.8
+2022-12-01 00:00:00,Births ;  Australia ;,72.3
+2023-03-01 00:00:00,Births ;  Australia ;,71.3
+2023-06-01 00:00:00,Births ;  Australia ;,72.7
+2023-09-01 00:00:00,Births ;  Australia ;,74.7
+2023-12-01 00:00:00,Births ;  Australia ;,66.3
+2024-03-01 00:00:00,Births ;  Australia ;,76
+2024-06-01 00:00:00,Births ;  Australia ;,72.1
+2024-09-01 00:00:00,Births ;  Australia ;,76.8
+2024-12-01 00:00:00,Births ;  Australia ;,67.6
+Unit,Deaths ;  Australia ;,000
+Series Type,Deaths ;  Australia ;,Original
+Data Type,Deaths ;  Australia ;,FLOW
+Frequency,Deaths ;  Australia ;,Quarter
+Collection Month,Deaths ;  Australia ;,3
+Series Start,Deaths ;  Australia ;,1981-06-01 00:00:00
+Series End,Deaths ;  Australia ;,2024-12-01 00:00:00
+No. Obs,Deaths ;  Australia ;,175
+Series ID,Deaths ;  Australia ;,A2133245A
+1981-06-01 00:00:00,Deaths ;  Australia ;,26.7
+1981-09-01 00:00:00,Deaths ;  Australia ;,31.5
+1981-12-01 00:00:00,Deaths ;  Australia ;,25.7
+1982-03-01 00:00:00,Deaths ;  Australia ;,26.1
+1982-06-01 00:00:00,Deaths ;  Australia ;,27.7
+1982-09-01 00:00:00,Deaths ;  Australia ;,33.9
+1982-12-01 00:00:00,Deaths ;  Australia ;,27.1
+1983-03-01 00:00:00,Deaths ;  Australia ;,25.6
+1983-06-01 00:00:00,Deaths ;  Australia ;,26.4
+1983-09-01 00:00:00,Deaths ;  Australia ;,31.9
+1983-12-01 00:00:00,Deaths ;  Australia ;,26.2
+1984-03-01 00:00:00,Deaths ;  Australia ;,25.9
+1984-06-01 00:00:00,Deaths ;  Australia ;,26.9
+1984-09-01 00:00:00,Deaths ;  Australia ;,31.9
+1984-12-01 00:00:00,Deaths ;  Australia ;,27.2
+1985-03-01 00:00:00,Deaths ;  Australia ;,26.6
+1985-06-01 00:00:00,Deaths ;  Australia ;,28.5
+1985-09-01 00:00:00,Deaths ;  Australia ;,35.1
+1985-12-01 00:00:00,Deaths ;  Australia ;,26.7
+1986-03-01 00:00:00,Deaths ;  Australia ;,26.8
+1986-06-01 00:00:00,Deaths ;  Australia ;,27.5
+1986-09-01 00:00:00,Deaths ;  Australia ;,31.9
+1986-12-01 00:00:00,Deaths ;  Australia ;,28.7
+1987-03-01 00:00:00,Deaths ;  Australia ;,27.1
+1987-06-01 00:00:00,Deaths ;  Australia ;,28.4
+1987-09-01 00:00:00,Deaths ;  Australia ;,32.3
+1987-12-01 00:00:00,Deaths ;  Australia ;,29.6
+1988-03-01 00:00:00,Deaths ;  Australia ;,29.9
+1988-06-01 00:00:00,Deaths ;  Australia ;,28.7
+1988-09-01 00:00:00,Deaths ;  Australia ;,33.6
+1988-12-01 00:00:00,Deaths ;  Australia ;,27.6
+1989-03-01 00:00:00,Deaths ;  Australia ;,27.8
+1989-06-01 00:00:00,Deaths ;  Australia ;,29.8
+1989-09-01 00:00:00,Deaths ;  Australia ;,36.9
+1989-12-01 00:00:00,Deaths ;  Australia ;,29.8
+1990-03-01 00:00:00,Deaths ;  Australia ;,29.2
+1990-06-01 00:00:00,Deaths ;  Australia ;,29.2
+1990-09-01 00:00:00,Deaths ;  Australia ;,33
+1990-12-01 00:00:00,Deaths ;  Australia ;,28.7
+1991-03-01 00:00:00,Deaths ;  Australia ;,28.6
+1991-06-01 00:00:00,Deaths ;  Australia ;,29.3
+1991-09-01 00:00:00,Deaths ;  Australia ;,33
+1991-12-01 00:00:00,Deaths ;  Australia ;,28.8
+1992-03-01 00:00:00,Deaths ;  Australia ;,27.3
+1992-06-01 00:00:00,Deaths ;  Australia ;,31.7
+1992-09-01 00:00:00,Deaths ;  Australia ;,34.4
+1992-12-01 00:00:00,Deaths ;  Australia ;,29.6
+1993-03-01 00:00:00,Deaths ;  Australia ;,27.1
+1993-06-01 00:00:00,Deaths ;  Australia ;,30.3
+1993-09-01 00:00:00,Deaths ;  Australia ;,33.5
+1993-12-01 00:00:00,Deaths ;  Australia ;,29.9
+1994-03-01 00:00:00,Deaths ;  Australia ;,28.5
+1994-06-01 00:00:00,Deaths ;  Australia ;,31.6
+1994-09-01 00:00:00,Deaths ;  Australia ;,36.7
+1994-12-01 00:00:00,Deaths ;  Australia ;,30.2
+1995-03-01 00:00:00,Deaths ;  Australia ;,27.8
+1995-06-01 00:00:00,Deaths ;  Australia ;,31.5
+1995-09-01 00:00:00,Deaths ;  Australia ;,35
+1995-12-01 00:00:00,Deaths ;  Australia ;,30.8
+1996-03-01 00:00:00,Deaths ;  Australia ;,28.9
+1996-06-01 00:00:00,Deaths ;  Australia ;,31.7
+1996-09-01 00:00:00,Deaths ;  Australia ;,37.1
+1996-12-01 00:00:00,Deaths ;  Australia ;,30.5
+1997-03-01 00:00:00,Deaths ;  Australia ;,28.4
+1997-06-01 00:00:00,Deaths ;  Australia ;,31.4
+1997-09-01 00:00:00,Deaths ;  Australia ;,38
+1997-12-01 00:00:00,Deaths ;  Australia ;,31
+1998-03-01 00:00:00,Deaths ;  Australia ;,28.4
+1998-06-01 00:00:00,Deaths ;  Australia ;,31.8
+1998-09-01 00:00:00,Deaths ;  Australia ;,36.4
+1998-12-01 00:00:00,Deaths ;  Australia ;,30.8
+1999-03-01 00:00:00,Deaths ;  Australia ;,28.8
+1999-06-01 00:00:00,Deaths ;  Australia ;,32.2
+1999-09-01 00:00:00,Deaths ;  Australia ;,35.9
+1999-12-01 00:00:00,Deaths ;  Australia ;,31.2
+2000-03-01 00:00:00,Deaths ;  Australia ;,28.9
+2000-06-01 00:00:00,Deaths ;  Australia ;,32.3
+2000-09-01 00:00:00,Deaths ;  Australia ;,36.3
+2000-12-01 00:00:00,Deaths ;  Australia ;,31.4
+2001-03-01 00:00:00,Deaths ;  Australia ;,29.2
+2001-06-01 00:00:00,Deaths ;  Australia ;,32.1
+2001-09-01 00:00:00,Deaths ;  Australia ;,35.2
+2001-12-01 00:00:00,Deaths ;  Australia ;,32.3
+2002-03-01 00:00:00,Deaths ;  Australia ;,29.6
+2002-06-01 00:00:00,Deaths ;  Australia ;,33.1
+2002-09-01 00:00:00,Deaths ;  Australia ;,38.1
+2002-12-01 00:00:00,Deaths ;  Australia ;,32.2
+2003-03-01 00:00:00,Deaths ;  Australia ;,29.4
+2003-06-01 00:00:00,Deaths ;  Australia ;,32.5
+2003-09-01 00:00:00,Deaths ;  Australia ;,37.8
+2003-12-01 00:00:00,Deaths ;  Australia ;,32.1
+2004-03-01 00:00:00,Deaths ;  Australia ;,30.3
+2004-06-01 00:00:00,Deaths ;  Australia ;,33
+2004-09-01 00:00:00,Deaths ;  Australia ;,36.8
+2004-12-01 00:00:00,Deaths ;  Australia ;,32.3
+2005-03-01 00:00:00,Deaths ;  Australia ;,29.5
+2005-06-01 00:00:00,Deaths ;  Australia ;,32.8
+2005-09-01 00:00:00,Deaths ;  Australia ;,36.5
+2005-12-01 00:00:00,Deaths ;  Australia ;,32.6
+2006-03-01 00:00:00,Deaths ;  Australia ;,30.7
+2006-06-01 00:00:00,Deaths ;  Australia ;,34.2
+2006-09-01 00:00:00,Deaths ;  Australia ;,36.4
+2006-12-01 00:00:00,Deaths ;  Australia ;,33.2
+2007-03-01 00:00:00,Deaths ;  Australia ;,31.6
+2007-06-01 00:00:00,Deaths ;  Australia ;,34.8
+2007-09-01 00:00:00,Deaths ;  Australia ;,39.3
+2007-12-01 00:00:00,Deaths ;  Australia ;,34.1
+2008-03-01 00:00:00,Deaths ;  Australia ;,32.2
+2008-06-01 00:00:00,Deaths ;  Australia ;,35.1
+2008-09-01 00:00:00,Deaths ;  Australia ;,40.5
+2008-12-01 00:00:00,Deaths ;  Australia ;,34.6
+2009-03-01 00:00:00,Deaths ;  Australia ;,33.1
+2009-06-01 00:00:00,Deaths ;  Australia ;,35.5
+2009-09-01 00:00:00,Deaths ;  Australia ;,38
+2009-12-01 00:00:00,Deaths ;  Australia ;,35
+2010-03-01 00:00:00,Deaths ;  Australia ;,32.7
+2010-06-01 00:00:00,Deaths ;  Australia ;,35.8
+2010-09-01 00:00:00,Deaths ;  Australia ;,38.5
+2010-12-01 00:00:00,Deaths ;  Australia ;,35.8
+2011-03-01 00:00:00,Deaths ;  Australia ;,33.8
+2011-06-01 00:00:00,Deaths ;  Australia ;,37.4
+2011-09-01 00:00:00,Deaths ;  Australia ;,39.6
+2011-12-01 00:00:00,Deaths ;  Australia ;,36.1
+2012-03-01 00:00:00,Deaths ;  Australia ;,34.1
+2012-06-01 00:00:00,Deaths ;  Australia ;,37.5
+2012-09-01 00:00:00,Deaths ;  Australia ;,42.2
+2012-12-01 00:00:00,Deaths ;  Australia ;,35.4
+2013-03-01 00:00:00,Deaths ;  Australia ;,34.2
+2013-06-01 00:00:00,Deaths ;  Australia ;,37.3
+2013-09-01 00:00:00,Deaths ;  Australia ;,39.7
+2013-12-01 00:00:00,Deaths ;  Australia ;,37
+2014-03-01 00:00:00,Deaths ;  Australia ;,34.9
+2014-06-01 00:00:00,Deaths ;  Australia ;,38.5
+2014-09-01 00:00:00,Deaths ;  Australia ;,43.1
+2014-12-01 00:00:00,Deaths ;  Australia ;,37.5
+2015-03-01 00:00:00,Deaths ;  Australia ;,35.8
+2015-06-01 00:00:00,Deaths ;  Australia ;,39.5
+2015-09-01 00:00:00,Deaths ;  Australia ;,44.1
+2015-12-01 00:00:00,Deaths ;  Australia ;,38
+2016-03-01 00:00:00,Deaths ;  Australia ;,36.1
+2016-06-01 00:00:00,Deaths ;  Australia ;,39.2
+2016-09-01 00:00:00,Deaths ;  Australia ;,43.7
+2016-12-01 00:00:00,Deaths ;  Australia ;,39.6
+2017-03-01 00:00:00,Deaths ;  Australia ;,36.8
+2017-06-01 00:00:00,Deaths ;  Australia ;,40.1
+2017-09-01 00:00:00,Deaths ;  Australia ;,47.4
+2017-12-01 00:00:00,Deaths ;  Australia ;,38.9
+2018-03-01 00:00:00,Deaths ;  Australia ;,36.3
+2018-06-01 00:00:00,Deaths ;  Australia ;,39.4
+2018-09-01 00:00:00,Deaths ;  Australia ;,43.3
+2018-12-01 00:00:00,Deaths ;  Australia ;,39.5
+2019-03-01 00:00:00,Deaths ;  Australia ;,38.4
+2019-06-01 00:00:00,Deaths ;  Australia ;,41.9
+2019-09-01 00:00:00,Deaths ;  Australia ;,44.8
+2019-12-01 00:00:00,Deaths ;  Australia ;,39.9
+2020-03-01 00:00:00,Deaths ;  Australia ;,39.1
+2020-06-01 00:00:00,Deaths ;  Australia ;,40.7
+2020-09-01 00:00:00,Deaths ;  Australia ;,43
+2020-12-01 00:00:00,Deaths ;  Australia ;,40
+2021-03-01 00:00:00,Deaths ;  Australia ;,39.1
+2021-06-01 00:00:00,Deaths ;  Australia ;,43.5
+2021-09-01 00:00:00,Deaths ;  Australia ;,46.1
+2021-12-01 00:00:00,Deaths ;  Australia ;,43.5
+2022-03-01 00:00:00,Deaths ;  Australia ;,45.1
+2022-06-01 00:00:00,Deaths ;  Australia ;,48.6
+2022-09-01 00:00:00,Deaths ;  Australia ;,51.9
+2022-12-01 00:00:00,Deaths ;  Australia ;,45.9
+2023-03-01 00:00:00,Deaths ;  Australia ;,42.8
+2023-06-01 00:00:00,Deaths ;  Australia ;,47.6
+2023-09-01 00:00:00,Deaths ;  Australia ;,47.2
+2023-12-01 00:00:00,Deaths ;  Australia ;,44.2
+2024-03-01 00:00:00,Deaths ;  Australia ;,45.1
+2024-06-01 00:00:00,Deaths ;  Australia ;,46.1
+2024-09-01 00:00:00,Deaths ;  Australia ;,51.6
+2024-12-01 00:00:00,Deaths ;  Australia ;,44.5
+Unit,Natural Increase ;  Australia ;,000
+Series Type,Natural Increase ;  Australia ;,Original
+Data Type,Natural Increase ;  Australia ;,FLOW
+Frequency,Natural Increase ;  Australia ;,Quarter
+Collection Month,Natural Increase ;  Australia ;,3
+Series Start,Natural Increase ;  Australia ;,1981-06-01 00:00:00
+Series End,Natural Increase ;  Australia ;,2024-12-01 00:00:00
+No. Obs,Natural Increase ;  Australia ;,175
+Series ID,Natural Increase ;  Australia ;,A2133252X
+1981-06-01 00:00:00,Natural Increase ;  Australia ;,33.6
+1981-09-01 00:00:00,Natural Increase ;  Australia ;,29.6
+1981-12-01 00:00:00,Natural Increase ;  Australia ;,29.3
+1982-03-01 00:00:00,Natural Increase ;  Australia ;,34.5
+1982-06-01 00:00:00,Natural Increase ;  Australia ;,32.7
+1982-09-01 00:00:00,Natural Increase ;  Australia ;,26.4
+1982-12-01 00:00:00,Natural Increase ;  Australia ;,31.5
+1983-03-01 00:00:00,Natural Increase ;  Australia ;,36.4
+1983-06-01 00:00:00,Natural Increase ;  Australia ;,34.6
+1983-09-01 00:00:00,Natural Increase ;  Australia ;,30.1
+1983-12-01 00:00:00,Natural Increase ;  Australia ;,31.4
+1984-03-01 00:00:00,Natural Increase ;  Australia ;,35.2
+1984-06-01 00:00:00,Natural Increase ;  Australia ;,32.9
+1984-09-01 00:00:00,Natural Increase ;  Australia ;,28.8
+1984-12-01 00:00:00,Natural Increase ;  Australia ;,29.7
+1985-03-01 00:00:00,Natural Increase ;  Australia ;,35.6
+1985-06-01 00:00:00,Natural Increase ;  Australia ;,33.5
+1985-09-01 00:00:00,Natural Increase ;  Australia ;,25.8
+1985-12-01 00:00:00,Natural Increase ;  Australia ;,31.1
+1986-03-01 00:00:00,Natural Increase ;  Australia ;,33.1
+1986-06-01 00:00:00,Natural Increase ;  Australia ;,33
+1986-09-01 00:00:00,Natural Increase ;  Australia ;,28.8
+1986-12-01 00:00:00,Natural Increase ;  Australia ;,33.5
+1987-03-01 00:00:00,Natural Increase ;  Australia ;,31.9
+1987-06-01 00:00:00,Natural Increase ;  Australia ;,32.4
+1987-09-01 00:00:00,Natural Increase ;  Australia ;,29.3
+1987-12-01 00:00:00,Natural Increase ;  Australia ;,33
+1988-03-01 00:00:00,Natural Increase ;  Australia ;,31.6
+1988-06-01 00:00:00,Natural Increase ;  Australia ;,31.9
+1988-09-01 00:00:00,Natural Increase ;  Australia ;,28.5
+1988-12-01 00:00:00,Natural Increase ;  Australia ;,34.3
+1989-03-01 00:00:00,Natural Increase ;  Australia ;,35.6
+1989-06-01 00:00:00,Natural Increase ;  Australia ;,32.9
+1989-09-01 00:00:00,Natural Increase ;  Australia ;,25
+1989-12-01 00:00:00,Natural Increase ;  Australia ;,33.1
+1990-03-01 00:00:00,Natural Increase ;  Australia ;,35.8
+1990-06-01 00:00:00,Natural Increase ;  Australia ;,38.5
+1990-09-01 00:00:00,Natural Increase ;  Australia ;,32.9
+1990-12-01 00:00:00,Natural Increase ;  Australia ;,35.4
+1991-03-01 00:00:00,Natural Increase ;  Australia ;,36.3
+1991-06-01 00:00:00,Natural Increase ;  Australia ;,37
+1991-09-01 00:00:00,Natural Increase ;  Australia ;,32.2
+1991-12-01 00:00:00,Natural Increase ;  Australia ;,34
+1992-03-01 00:00:00,Natural Increase ;  Australia ;,38.4
+1992-06-01 00:00:00,Natural Increase ;  Australia ;,34.1
+1992-09-01 00:00:00,Natural Increase ;  Australia ;,32.8
+1992-12-01 00:00:00,Natural Increase ;  Australia ;,34.3
+1993-03-01 00:00:00,Natural Increase ;  Australia ;,37.2
+1993-06-01 00:00:00,Natural Increase ;  Australia ;,34.9
+1993-09-01 00:00:00,Natural Increase ;  Australia ;,32.5
+1993-12-01 00:00:00,Natural Increase ;  Australia ;,33.8
+1994-03-01 00:00:00,Natural Increase ;  Australia ;,36.7
+1994-06-01 00:00:00,Natural Increase ;  Australia ;,32.3
+1994-09-01 00:00:00,Natural Increase ;  Australia ;,29.3
+1994-12-01 00:00:00,Natural Increase ;  Australia ;,33.6
+1995-03-01 00:00:00,Natural Increase ;  Australia ;,36.7
+1995-06-01 00:00:00,Natural Increase ;  Australia ;,32.8
+1995-09-01 00:00:00,Natural Increase ;  Australia ;,30.3
+1995-12-01 00:00:00,Natural Increase ;  Australia ;,30.4
+1996-03-01 00:00:00,Natural Increase ;  Australia ;,33.4
+1996-06-01 00:00:00,Natural Increase ;  Australia ;,30.3
+1996-09-01 00:00:00,Natural Increase ;  Australia ;,28.2
+1996-12-01 00:00:00,Natural Increase ;  Australia ;,33.3
+1997-03-01 00:00:00,Natural Increase ;  Australia ;,33.2
+1997-06-01 00:00:00,Natural Increase ;  Australia ;,32.2
+1997-09-01 00:00:00,Natural Increase ;  Australia ;,26.5
+1997-12-01 00:00:00,Natural Increase ;  Australia ;,31
+1998-03-01 00:00:00,Natural Increase ;  Australia ;,32.5
+1998-06-01 00:00:00,Natural Increase ;  Australia ;,30.5
+1998-09-01 00:00:00,Natural Increase ;  Australia ;,27.8
+1998-12-01 00:00:00,Natural Increase ;  Australia ;,30.7
+1999-03-01 00:00:00,Natural Increase ;  Australia ;,33.4
+1999-06-01 00:00:00,Natural Increase ;  Australia ;,30.5
+1999-09-01 00:00:00,Natural Increase ;  Australia ;,28.9
+1999-12-01 00:00:00,Natural Increase ;  Australia ;,30.1
+2000-03-01 00:00:00,Natural Increase ;  Australia ;,33.3
+2000-06-01 00:00:00,Natural Increase ;  Australia ;,29.8
+2000-09-01 00:00:00,Natural Increase ;  Australia ;,27.9
+2000-12-01 00:00:00,Natural Increase ;  Australia ;,30.9
+2001-03-01 00:00:00,Natural Increase ;  Australia ;,31.9
+2001-06-01 00:00:00,Natural Increase ;  Australia ;,29.7
+2001-09-01 00:00:00,Natural Increase ;  Australia ;,29
+2001-12-01 00:00:00,Natural Increase ;  Australia ;,28.5
+2002-03-01 00:00:00,Natural Increase ;  Australia ;,32.8
+2002-06-01 00:00:00,Natural Increase ;  Australia ;,28.9
+2002-09-01 00:00:00,Natural Increase ;  Australia ;,25.7
+2002-12-01 00:00:00,Natural Increase ;  Australia ;,29.6
+2003-03-01 00:00:00,Natural Increase ;  Australia ;,31.6
+2003-06-01 00:00:00,Natural Increase ;  Australia ;,30
+2003-09-01 00:00:00,Natural Increase ;  Australia ;,27.2
+2003-12-01 00:00:00,Natural Increase ;  Australia ;,30.2
+2004-03-01 00:00:00,Natural Increase ;  Australia ;,33.2
+2004-06-01 00:00:00,Natural Increase ;  Australia ;,28.2
+2004-09-01 00:00:00,Natural Increase ;  Australia ;,28.2
+2004-12-01 00:00:00,Natural Increase ;  Australia ;,29.5
+2005-03-01 00:00:00,Natural Increase ;  Australia ;,35.1
+2005-06-01 00:00:00,Natural Increase ;  Australia ;,34.1
+2005-09-01 00:00:00,Natural Increase ;  Australia ;,31.6
+2005-12-01 00:00:00,Natural Increase ;  Australia ;,33.3
+2006-03-01 00:00:00,Natural Increase ;  Australia ;,34.5
+2006-06-01 00:00:00,Natural Increase ;  Australia ;,32.6
+2006-09-01 00:00:00,Natural Increase ;  Australia ;,36.2
+2006-12-01 00:00:00,Natural Increase ;  Australia ;,36.5
+2007-03-01 00:00:00,Natural Increase ;  Australia ;,41.1
+2007-06-01 00:00:00,Natural Increase ;  Australia ;,37.5
+2007-09-01 00:00:00,Natural Increase ;  Australia ;,36.3
+2007-12-01 00:00:00,Natural Increase ;  Australia ;,38.5
+2008-03-01 00:00:00,Natural Increase ;  Australia ;,41.9
+2008-06-01 00:00:00,Natural Increase ;  Australia ;,37.7
+2008-09-01 00:00:00,Natural Increase ;  Australia ;,36.2
+2008-12-01 00:00:00,Natural Increase ;  Australia ;,40
+2009-03-01 00:00:00,Natural Increase ;  Australia ;,40.8
+2009-06-01 00:00:00,Natural Increase ;  Australia ;,39.4
+2009-09-01 00:00:00,Natural Increase ;  Australia ;,38.5
+2009-12-01 00:00:00,Natural Increase ;  Australia ;,40.5
+2010-03-01 00:00:00,Natural Increase ;  Australia ;,43.2
+2010-06-01 00:00:00,Natural Increase ;  Australia ;,40.3
+2010-09-01 00:00:00,Natural Increase ;  Australia ;,37.8
+2010-12-01 00:00:00,Natural Increase ;  Australia ;,36.6
+2011-03-01 00:00:00,Natural Increase ;  Australia ;,42.3
+2011-06-01 00:00:00,Natural Increase ;  Australia ;,39
+2011-09-01 00:00:00,Natural Increase ;  Australia ;,36.6
+2011-12-01 00:00:00,Natural Increase ;  Australia ;,38.2
+2012-03-01 00:00:00,Natural Increase ;  Australia ;,44.1
+2012-06-01 00:00:00,Natural Increase ;  Australia ;,40
+2012-09-01 00:00:00,Natural Increase ;  Australia ;,36.5
+2012-12-01 00:00:00,Natural Increase ;  Australia ;,42.5
+2013-03-01 00:00:00,Natural Increase ;  Australia ;,43.2
+2013-06-01 00:00:00,Natural Increase ;  Australia ;,39.8
+2013-09-01 00:00:00,Natural Increase ;  Australia ;,37.2
+2013-12-01 00:00:00,Natural Increase ;  Australia ;,38.7
+2014-03-01 00:00:00,Natural Increase ;  Australia ;,42.7
+2014-06-01 00:00:00,Natural Increase ;  Australia ;,38.4
+2014-09-01 00:00:00,Natural Increase ;  Australia ;,35.9
+2014-12-01 00:00:00,Natural Increase ;  Australia ;,39.5
+2015-03-01 00:00:00,Natural Increase ;  Australia ;,40.4
+2015-06-01 00:00:00,Natural Increase ;  Australia ;,35.9
+2015-09-01 00:00:00,Natural Increase ;  Australia ;,34.8
+2015-12-01 00:00:00,Natural Increase ;  Australia ;,37.9
+2016-03-01 00:00:00,Natural Increase ;  Australia ;,42.7
+2016-06-01 00:00:00,Natural Increase ;  Australia ;,39
+2016-09-01 00:00:00,Natural Increase ;  Australia ;,35.3
+2016-12-01 00:00:00,Natural Increase ;  Australia ;,36.2
+2017-03-01 00:00:00,Natural Increase ;  Australia ;,39.9
+2017-06-01 00:00:00,Natural Increase ;  Australia ;,36.2
+2017-09-01 00:00:00,Natural Increase ;  Australia ;,30.3
+2017-12-01 00:00:00,Natural Increase ;  Australia ;,35.6
+2018-03-01 00:00:00,Natural Increase ;  Australia ;,40.2
+2018-06-01 00:00:00,Natural Increase ;  Australia ;,36.5
+2018-09-01 00:00:00,Natural Increase ;  Australia ;,33.2
+2018-12-01 00:00:00,Natural Increase ;  Australia ;,35.9
+2019-03-01 00:00:00,Natural Increase ;  Australia ;,38.1
+2019-06-01 00:00:00,Natural Increase ;  Australia ;,34.6
+2019-09-01 00:00:00,Natural Increase ;  Australia ;,32
+2019-12-01 00:00:00,Natural Increase ;  Australia ;,34.3
+2020-03-01 00:00:00,Natural Increase ;  Australia ;,35.6
+2020-06-01 00:00:00,Natural Increase ;  Australia ;,32.9
+2020-09-01 00:00:00,Natural Increase ;  Australia ;,31.2
+2020-12-01 00:00:00,Natural Increase ;  Australia ;,31.2
+2021-03-01 00:00:00,Natural Increase ;  Australia ;,41.1
+2021-06-01 00:00:00,Natural Increase ;  Australia ;,35.9
+2021-09-01 00:00:00,Natural Increase ;  Australia ;,32.4
+2021-12-01 00:00:00,Natural Increase ;  Australia ;,33.6
+2022-03-01 00:00:00,Natural Increase ;  Australia ;,31.7
+2022-06-01 00:00:00,Natural Increase ;  Australia ;,27.8
+2022-09-01 00:00:00,Natural Increase ;  Australia ;,22.9
+2022-12-01 00:00:00,Natural Increase ;  Australia ;,26.3
+2023-03-01 00:00:00,Natural Increase ;  Australia ;,28.5
+2023-06-01 00:00:00,Natural Increase ;  Australia ;,25.1
+2023-09-01 00:00:00,Natural Increase ;  Australia ;,27.4
+2023-12-01 00:00:00,Natural Increase ;  Australia ;,22.1
+2024-03-01 00:00:00,Natural Increase ;  Australia ;,30.8
+2024-06-01 00:00:00,Natural Increase ;  Australia ;,26
+2024-09-01 00:00:00,Natural Increase ;  Australia ;,25.2
+2024-12-01 00:00:00,Natural Increase ;  Australia ;,23.1
+Unit,Interstate Arrivals ;  Australia ;,000
+Series Type,Interstate Arrivals ;  Australia ;,Original
+Data Type,Interstate Arrivals ;  Australia ;,FLOW
+Frequency,Interstate Arrivals ;  Australia ;,Quarter
+Collection Month,Interstate Arrivals ;  Australia ;,3
+Series Start,Interstate Arrivals ;  Australia ;,1981-06-01 00:00:00
+Series End,Interstate Arrivals ;  Australia ;,2024-12-01 00:00:00
+No. Obs,Interstate Arrivals ;  Australia ;,175
+Series ID,Interstate Arrivals ;  Australia ;,A2133246C
+1981-06-01 00:00:00,Interstate Arrivals ;  Australia ;,78
+1981-09-01 00:00:00,Interstate Arrivals ;  Australia ;,76.6
+1981-12-01 00:00:00,Interstate Arrivals ;  Australia ;,65.9
+1982-03-01 00:00:00,Interstate Arrivals ;  Australia ;,70.3
+1982-06-01 00:00:00,Interstate Arrivals ;  Australia ;,81.7
+1982-09-01 00:00:00,Interstate Arrivals ;  Australia ;,66.9
+1982-12-01 00:00:00,Interstate Arrivals ;  Australia ;,58.7
+1983-03-01 00:00:00,Interstate Arrivals ;  Australia ;,57.5
+1983-06-01 00:00:00,Interstate Arrivals ;  Australia ;,71
+1983-09-01 00:00:00,Interstate Arrivals ;  Australia ;,62.4
+1983-12-01 00:00:00,Interstate Arrivals ;  Australia ;,52.4
+1984-03-01 00:00:00,Interstate Arrivals ;  Australia ;,62.8
+1984-06-01 00:00:00,Interstate Arrivals ;  Australia ;,67.3
+1984-09-01 00:00:00,Interstate Arrivals ;  Australia ;,65.7
+1984-12-01 00:00:00,Interstate Arrivals ;  Australia ;,58.9
+1985-03-01 00:00:00,Interstate Arrivals ;  Australia ;,67.8
+1985-06-01 00:00:00,Interstate Arrivals ;  Australia ;,74.5
+1985-09-01 00:00:00,Interstate Arrivals ;  Australia ;,72.5
+1985-12-01 00:00:00,Interstate Arrivals ;  Australia ;,67.6
+1986-03-01 00:00:00,Interstate Arrivals ;  Australia ;,76.3
+1986-06-01 00:00:00,Interstate Arrivals ;  Australia ;,77.8
+1986-09-01 00:00:00,Interstate Arrivals ;  Australia ;,70.7
+1986-12-01 00:00:00,Interstate Arrivals ;  Australia ;,65.3
+1987-03-01 00:00:00,Interstate Arrivals ;  Australia ;,90.5
+1987-06-01 00:00:00,Interstate Arrivals ;  Australia ;,73.9
+1987-09-01 00:00:00,Interstate Arrivals ;  Australia ;,76.1
+1987-12-01 00:00:00,Interstate Arrivals ;  Australia ;,72.9
+1988-03-01 00:00:00,Interstate Arrivals ;  Australia ;,101.6
+1988-06-01 00:00:00,Interstate Arrivals ;  Australia ;,83.9
+1988-09-01 00:00:00,Interstate Arrivals ;  Australia ;,83.9
+1988-12-01 00:00:00,Interstate Arrivals ;  Australia ;,77.1
+1989-03-01 00:00:00,Interstate Arrivals ;  Australia ;,109.9
+1989-06-01 00:00:00,Interstate Arrivals ;  Australia ;,94.9
+1989-09-01 00:00:00,Interstate Arrivals ;  Australia ;,85.6
+1989-12-01 00:00:00,Interstate Arrivals ;  Australia ;,72.6
+1990-03-01 00:00:00,Interstate Arrivals ;  Australia ;,105.2
+1990-06-01 00:00:00,Interstate Arrivals ;  Australia ;,84.3
+1990-09-01 00:00:00,Interstate Arrivals ;  Australia ;,78.1
+1990-12-01 00:00:00,Interstate Arrivals ;  Australia ;,72.8
+1991-03-01 00:00:00,Interstate Arrivals ;  Australia ;,100.1
+1991-06-01 00:00:00,Interstate Arrivals ;  Australia ;,79.7
+1991-09-01 00:00:00,Interstate Arrivals ;  Australia ;,73.8
+1991-12-01 00:00:00,Interstate Arrivals ;  Australia ;,73.5
+1992-03-01 00:00:00,Interstate Arrivals ;  Australia ;,105.2
+1992-06-01 00:00:00,Interstate Arrivals ;  Australia ;,80.1
+1992-09-01 00:00:00,Interstate Arrivals ;  Australia ;,94.3
+1992-12-01 00:00:00,Interstate Arrivals ;  Australia ;,86.3
+1993-03-01 00:00:00,Interstate Arrivals ;  Australia ;,111.6
+1993-06-01 00:00:00,Interstate Arrivals ;  Australia ;,79
+1993-09-01 00:00:00,Interstate Arrivals ;  Australia ;,78.6
+1993-12-01 00:00:00,Interstate Arrivals ;  Australia ;,70.4
+1994-03-01 00:00:00,Interstate Arrivals ;  Australia ;,100.4
+1994-06-01 00:00:00,Interstate Arrivals ;  Australia ;,80.1
+1994-09-01 00:00:00,Interstate Arrivals ;  Australia ;,82.3
+1994-12-01 00:00:00,Interstate Arrivals ;  Australia ;,73.6
+1995-03-01 00:00:00,Interstate Arrivals ;  Australia ;,107.1
+1995-06-01 00:00:00,Interstate Arrivals ;  Australia ;,96
+1995-09-01 00:00:00,Interstate Arrivals ;  Australia ;,77.8
+1995-12-01 00:00:00,Interstate Arrivals ;  Australia ;,80.1
+1996-03-01 00:00:00,Interstate Arrivals ;  Australia ;,106.7
+1996-06-01 00:00:00,Interstate Arrivals ;  Australia ;,84.8
+1996-09-01 00:00:00,Interstate Arrivals ;  Australia ;,87.3
+1996-12-01 00:00:00,Interstate Arrivals ;  Australia ;,103.7
+1997-03-01 00:00:00,Interstate Arrivals ;  Australia ;,93.1
+1997-06-01 00:00:00,Interstate Arrivals ;  Australia ;,90
+1997-09-01 00:00:00,Interstate Arrivals ;  Australia ;,82.1
+1997-12-01 00:00:00,Interstate Arrivals ;  Australia ;,103.7
+1998-03-01 00:00:00,Interstate Arrivals ;  Australia ;,88.6
+1998-06-01 00:00:00,Interstate Arrivals ;  Australia ;,89.4
+1998-09-01 00:00:00,Interstate Arrivals ;  Australia ;,80.1
+1998-12-01 00:00:00,Interstate Arrivals ;  Australia ;,102
+1999-03-01 00:00:00,Interstate Arrivals ;  Australia ;,87.2
+1999-06-01 00:00:00,Interstate Arrivals ;  Australia ;,89.2
+1999-09-01 00:00:00,Interstate Arrivals ;  Australia ;,81.3
+1999-12-01 00:00:00,Interstate Arrivals ;  Australia ;,103.1
+2000-03-01 00:00:00,Interstate Arrivals ;  Australia ;,91.8
+2000-06-01 00:00:00,Interstate Arrivals ;  Australia ;,91.3
+2000-09-01 00:00:00,Interstate Arrivals ;  Australia ;,84.6
+2000-12-01 00:00:00,Interstate Arrivals ;  Australia ;,110.5
+2001-03-01 00:00:00,Interstate Arrivals ;  Australia ;,92.7
+2001-06-01 00:00:00,Interstate Arrivals ;  Australia ;,93.1
+2001-09-01 00:00:00,Interstate Arrivals ;  Australia ;,85.6
+2001-12-01 00:00:00,Interstate Arrivals ;  Australia ;,103.3
+2002-03-01 00:00:00,Interstate Arrivals ;  Australia ;,97.3
+2002-06-01 00:00:00,Interstate Arrivals ;  Australia ;,97.9
+2002-09-01 00:00:00,Interstate Arrivals ;  Australia ;,91.4
+2002-12-01 00:00:00,Interstate Arrivals ;  Australia ;,112.9
+2003-03-01 00:00:00,Interstate Arrivals ;  Australia ;,96.6
+2003-06-01 00:00:00,Interstate Arrivals ;  Australia ;,97.7
+2003-09-01 00:00:00,Interstate Arrivals ;  Australia ;,90
+2003-12-01 00:00:00,Interstate Arrivals ;  Australia ;,108.3
+2004-03-01 00:00:00,Interstate Arrivals ;  Australia ;,96.4
+2004-06-01 00:00:00,Interstate Arrivals ;  Australia ;,91.8
+2004-09-01 00:00:00,Interstate Arrivals ;  Australia ;,81.4
+2004-12-01 00:00:00,Interstate Arrivals ;  Australia ;,100.7
+2005-03-01 00:00:00,Interstate Arrivals ;  Australia ;,89.8
+2005-06-01 00:00:00,Interstate Arrivals ;  Australia ;,87.1
+2005-09-01 00:00:00,Interstate Arrivals ;  Australia ;,76.8
+2005-12-01 00:00:00,Interstate Arrivals ;  Australia ;,97.5
+2006-03-01 00:00:00,Interstate Arrivals ;  Australia ;,85.6
+2006-06-01 00:00:00,Interstate Arrivals ;  Australia ;,82.9
+2006-09-01 00:00:00,Interstate Arrivals ;  Australia ;,77.3
+2006-12-01 00:00:00,Interstate Arrivals ;  Australia ;,99.4
+2007-03-01 00:00:00,Interstate Arrivals ;  Australia ;,90.6
+2007-06-01 00:00:00,Interstate Arrivals ;  Australia ;,91.9
+2007-09-01 00:00:00,Interstate Arrivals ;  Australia ;,82
+2007-12-01 00:00:00,Interstate Arrivals ;  Australia ;,98.9
+2008-03-01 00:00:00,Interstate Arrivals ;  Australia ;,92.3
+2008-06-01 00:00:00,Interstate Arrivals ;  Australia ;,88.2
+2008-09-01 00:00:00,Interstate Arrivals ;  Australia ;,81.1
+2008-12-01 00:00:00,Interstate Arrivals ;  Australia ;,103
+2009-03-01 00:00:00,Interstate Arrivals ;  Australia ;,88.8
+2009-06-01 00:00:00,Interstate Arrivals ;  Australia ;,87.6
+2009-09-01 00:00:00,Interstate Arrivals ;  Australia ;,75.8
+2009-12-01 00:00:00,Interstate Arrivals ;  Australia ;,91.7
+2010-03-01 00:00:00,Interstate Arrivals ;  Australia ;,82
+2010-06-01 00:00:00,Interstate Arrivals ;  Australia ;,82.4
+2010-09-01 00:00:00,Interstate Arrivals ;  Australia ;,75.5
+2010-12-01 00:00:00,Interstate Arrivals ;  Australia ;,95.5
+2011-03-01 00:00:00,Interstate Arrivals ;  Australia ;,84.4
+2011-06-01 00:00:00,Interstate Arrivals ;  Australia ;,83
+2011-09-01 00:00:00,Interstate Arrivals ;  Australia ;,80.5
+2011-12-01 00:00:00,Interstate Arrivals ;  Australia ;,102.9
+2012-03-01 00:00:00,Interstate Arrivals ;  Australia ;,89.1
+2012-06-01 00:00:00,Interstate Arrivals ;  Australia ;,85.4
+2012-09-01 00:00:00,Interstate Arrivals ;  Australia ;,76.8
+2012-12-01 00:00:00,Interstate Arrivals ;  Australia ;,88.1
+2013-03-01 00:00:00,Interstate Arrivals ;  Australia ;,90.5
+2013-06-01 00:00:00,Interstate Arrivals ;  Australia ;,90.1
+2013-09-01 00:00:00,Interstate Arrivals ;  Australia ;,78.8
+2013-12-01 00:00:00,Interstate Arrivals ;  Australia ;,100.7
+2014-03-01 00:00:00,Interstate Arrivals ;  Australia ;,93.3
+2014-06-01 00:00:00,Interstate Arrivals ;  Australia ;,84.9
+2014-09-01 00:00:00,Interstate Arrivals ;  Australia ;,71.8
+2014-12-01 00:00:00,Interstate Arrivals ;  Australia ;,94
+2015-03-01 00:00:00,Interstate Arrivals ;  Australia ;,87.2
+2015-06-01 00:00:00,Interstate Arrivals ;  Australia ;,91
+2015-09-01 00:00:00,Interstate Arrivals ;  Australia ;,78.1
+2015-12-01 00:00:00,Interstate Arrivals ;  Australia ;,99
+2016-03-01 00:00:00,Interstate Arrivals ;  Australia ;,94.7
+2016-06-01 00:00:00,Interstate Arrivals ;  Australia ;,100.1
+2016-09-01 00:00:00,Interstate Arrivals ;  Australia ;,91.8
+2016-12-01 00:00:00,Interstate Arrivals ;  Australia ;,124.6
+2017-03-01 00:00:00,Interstate Arrivals ;  Australia ;,108.8
+2017-06-01 00:00:00,Interstate Arrivals ;  Australia ;,110.2
+2017-09-01 00:00:00,Interstate Arrivals ;  Australia ;,99.8
+2017-12-01 00:00:00,Interstate Arrivals ;  Australia ;,128.4
+2018-03-01 00:00:00,Interstate Arrivals ;  Australia ;,113.7
+2018-06-01 00:00:00,Interstate Arrivals ;  Australia ;,114.5
+2018-09-01 00:00:00,Interstate Arrivals ;  Australia ;,101.8
+2018-12-01 00:00:00,Interstate Arrivals ;  Australia ;,134.8
+2019-03-01 00:00:00,Interstate Arrivals ;  Australia ;,118.8
+2019-06-01 00:00:00,Interstate Arrivals ;  Australia ;,120.8
+2019-09-01 00:00:00,Interstate Arrivals ;  Australia ;,105.5
+2019-12-01 00:00:00,Interstate Arrivals ;  Australia ;,131.3
+2020-03-01 00:00:00,Interstate Arrivals ;  Australia ;,93
+2020-06-01 00:00:00,Interstate Arrivals ;  Australia ;,91
+2020-09-01 00:00:00,Interstate Arrivals ;  Australia ;,64.9
+2020-12-01 00:00:00,Interstate Arrivals ;  Australia ;,89.1
+2021-03-01 00:00:00,Interstate Arrivals ;  Australia ;,87.3
+2021-06-01 00:00:00,Interstate Arrivals ;  Australia ;,124.2
+2021-09-01 00:00:00,Interstate Arrivals ;  Australia ;,100.5
+2021-12-01 00:00:00,Interstate Arrivals ;  Australia ;,114.6
+2022-03-01 00:00:00,Interstate Arrivals ;  Australia ;,104.2
+2022-06-01 00:00:00,Interstate Arrivals ;  Australia ;,99.4
+2022-09-01 00:00:00,Interstate Arrivals ;  Australia ;,78.9
+2022-12-01 00:00:00,Interstate Arrivals ;  Australia ;,113.5
+2023-03-01 00:00:00,Interstate Arrivals ;  Australia ;,98.3
+2023-06-01 00:00:00,Interstate Arrivals ;  Australia ;,95.1
+2023-09-01 00:00:00,Interstate Arrivals ;  Australia ;,86.9
+2023-12-01 00:00:00,Interstate Arrivals ;  Australia ;,105.7
+2024-03-01 00:00:00,Interstate Arrivals ;  Australia ;,97.2
+2024-06-01 00:00:00,Interstate Arrivals ;  Australia ;,95
+2024-09-01 00:00:00,Interstate Arrivals ;  Australia ;,82.1
+2024-12-01 00:00:00,Interstate Arrivals ;  Australia ;,103.5
+Unit,Interstate Departures ;  Australia ;,000
+Series Type,Interstate Departures ;  Australia ;,Original
+Data Type,Interstate Departures ;  Australia ;,FLOW
+Frequency,Interstate Departures ;  Australia ;,Quarter
+Collection Month,Interstate Departures ;  Australia ;,3
+Series Start,Interstate Departures ;  Australia ;,1981-06-01 00:00:00
+Series End,Interstate Departures ;  Australia ;,2024-12-01 00:00:00
+No. Obs,Interstate Departures ;  Australia ;,175
+Series ID,Interstate Departures ;  Australia ;,A2133247F
+1981-06-01 00:00:00,Interstate Departures ;  Australia ;,78
+1981-09-01 00:00:00,Interstate Departures ;  Australia ;,76.6
+1981-12-01 00:00:00,Interstate Departures ;  Australia ;,65.9
+1982-03-01 00:00:00,Interstate Departures ;  Australia ;,70.3
+1982-06-01 00:00:00,Interstate Departures ;  Australia ;,81.7
+1982-09-01 00:00:00,Interstate Departures ;  Australia ;,66.9
+1982-12-01 00:00:00,Interstate Departures ;  Australia ;,58.7
+1983-03-01 00:00:00,Interstate Departures ;  Australia ;,57.5
+1983-06-01 00:00:00,Interstate Departures ;  Australia ;,71
+1983-09-01 00:00:00,Interstate Departures ;  Australia ;,62.4
+1983-12-01 00:00:00,Interstate Departures ;  Australia ;,52.4
+1984-03-01 00:00:00,Interstate Departures ;  Australia ;,62.8
+1984-06-01 00:00:00,Interstate Departures ;  Australia ;,67.3
+1984-09-01 00:00:00,Interstate Departures ;  Australia ;,65.7
+1984-12-01 00:00:00,Interstate Departures ;  Australia ;,58.9
+1985-03-01 00:00:00,Interstate Departures ;  Australia ;,67.8
+1985-06-01 00:00:00,Interstate Departures ;  Australia ;,74.5
+1985-09-01 00:00:00,Interstate Departures ;  Australia ;,72.5
+1985-12-01 00:00:00,Interstate Departures ;  Australia ;,67.6
+1986-03-01 00:00:00,Interstate Departures ;  Australia ;,76.3
+1986-06-01 00:00:00,Interstate Departures ;  Australia ;,77.8
+1986-09-01 00:00:00,Interstate Departures ;  Australia ;,70.7
+1986-12-01 00:00:00,Interstate Departures ;  Australia ;,65.3
+1987-03-01 00:00:00,Interstate Departures ;  Australia ;,90.5
+1987-06-01 00:00:00,Interstate Departures ;  Australia ;,73.9
+1987-09-01 00:00:00,Interstate Departures ;  Australia ;,76.1
+1987-12-01 00:00:00,Interstate Departures ;  Australia ;,72.9
+1988-03-01 00:00:00,Interstate Departures ;  Australia ;,101.6
+1988-06-01 00:00:00,Interstate Departures ;  Australia ;,83.9
+1988-09-01 00:00:00,Interstate Departures ;  Australia ;,83.9
+1988-12-01 00:00:00,Interstate Departures ;  Australia ;,77.1
+1989-03-01 00:00:00,Interstate Departures ;  Australia ;,109.9
+1989-06-01 00:00:00,Interstate Departures ;  Australia ;,94.9
+1989-09-01 00:00:00,Interstate Departures ;  Australia ;,85.6
+1989-12-01 00:00:00,Interstate Departures ;  Australia ;,72.6
+1990-03-01 00:00:00,Interstate Departures ;  Australia ;,105.2
+1990-06-01 00:00:00,Interstate Departures ;  Australia ;,84.3
+1990-09-01 00:00:00,Interstate Departures ;  Australia ;,78.1
+1990-12-01 00:00:00,Interstate Departures ;  Australia ;,72.8
+1991-03-01 00:00:00,Interstate Departures ;  Australia ;,100.1
+1991-06-01 00:00:00,Interstate Departures ;  Australia ;,79.7
+1991-09-01 00:00:00,Interstate Departures ;  Australia ;,73.8
+1991-12-01 00:00:00,Interstate Departures ;  Australia ;,73.5
+1992-03-01 00:00:00,Interstate Departures ;  Australia ;,105.2
+1992-06-01 00:00:00,Interstate Departures ;  Australia ;,80.1
+1992-09-01 00:00:00,Interstate Departures ;  Australia ;,94.3
+1992-12-01 00:00:00,Interstate Departures ;  Australia ;,86.3
+1993-03-01 00:00:00,Interstate Departures ;  Australia ;,111.6
+1993-06-01 00:00:00,Interstate Departures ;  Australia ;,79
+1993-09-01 00:00:00,Interstate Departures ;  Australia ;,78.6
+1993-12-01 00:00:00,Interstate Departures ;  Australia ;,70.4
+1994-03-01 00:00:00,Interstate Departures ;  Australia ;,100.4
+1994-06-01 00:00:00,Interstate Departures ;  Australia ;,80.1
+1994-09-01 00:00:00,Interstate Departures ;  Australia ;,82.3
+1994-12-01 00:00:00,Interstate Departures ;  Australia ;,73.6
+1995-03-01 00:00:00,Interstate Departures ;  Australia ;,107.1
+1995-06-01 00:00:00,Interstate Departures ;  Australia ;,96
+1995-09-01 00:00:00,Interstate Departures ;  Australia ;,77.8
+1995-12-01 00:00:00,Interstate Departures ;  Australia ;,80.1
+1996-03-01 00:00:00,Interstate Departures ;  Australia ;,106.7
+1996-06-01 00:00:00,Interstate Departures ;  Australia ;,84.8
+1996-09-01 00:00:00,Interstate Departures ;  Australia ;,87.3
+1996-12-01 00:00:00,Interstate Departures ;  Australia ;,103.7
+1997-03-01 00:00:00,Interstate Departures ;  Australia ;,93.1
+1997-06-01 00:00:00,Interstate Departures ;  Australia ;,90
+1997-09-01 00:00:00,Interstate Departures ;  Australia ;,82.1
+1997-12-01 00:00:00,Interstate Departures ;  Australia ;,103.7
+1998-03-01 00:00:00,Interstate Departures ;  Australia ;,88.6
+1998-06-01 00:00:00,Interstate Departures ;  Australia ;,89.4
+1998-09-01 00:00:00,Interstate Departures ;  Australia ;,80.1
+1998-12-01 00:00:00,Interstate Departures ;  Australia ;,102
+1999-03-01 00:00:00,Interstate Departures ;  Australia ;,87.2
+1999-06-01 00:00:00,Interstate Departures ;  Australia ;,89.2
+1999-09-01 00:00:00,Interstate Departures ;  Australia ;,81.3
+1999-12-01 00:00:00,Interstate Departures ;  Australia ;,103.1
+2000-03-01 00:00:00,Interstate Departures ;  Australia ;,91.8
+2000-06-01 00:00:00,Interstate Departures ;  Australia ;,91.3
+2000-09-01 00:00:00,Interstate Departures ;  Australia ;,84.6
+2000-12-01 00:00:00,Interstate Departures ;  Australia ;,110.5
+2001-03-01 00:00:00,Interstate Departures ;  Australia ;,92.7
+2001-06-01 00:00:00,Interstate Departures ;  Australia ;,93.1
+2001-09-01 00:00:00,Interstate Departures ;  Australia ;,85.6
+2001-12-01 00:00:00,Interstate Departures ;  Australia ;,103.3
+2002-03-01 00:00:00,Interstate Departures ;  Australia ;,97.3
+2002-06-01 00:00:00,Interstate Departures ;  Australia ;,97.9
+2002-09-01 00:00:00,Interstate Departures ;  Australia ;,91.4
+2002-12-01 00:00:00,Interstate Departures ;  Australia ;,112.9
+2003-03-01 00:00:00,Interstate Departures ;  Australia ;,96.6
+2003-06-01 00:00:00,Interstate Departures ;  Australia ;,97.7
+2003-09-01 00:00:00,Interstate Departures ;  Australia ;,90
+2003-12-01 00:00:00,Interstate Departures ;  Australia ;,108.3
+2004-03-01 00:00:00,Interstate Departures ;  Australia ;,96.4
+2004-06-01 00:00:00,Interstate Departures ;  Australia ;,91.8
+2004-09-01 00:00:00,Interstate Departures ;  Australia ;,81.4
+2004-12-01 00:00:00,Interstate Departures ;  Australia ;,100.7
+2005-03-01 00:00:00,Interstate Departures ;  Australia ;,89.8
+2005-06-01 00:00:00,Interstate Departures ;  Australia ;,87.1
+2005-09-01 00:00:00,Interstate Departures ;  Australia ;,76.8
+2005-12-01 00:00:00,Interstate Departures ;  Australia ;,97.5
+2006-03-01 00:00:00,Interstate Departures ;  Australia ;,85.6
+2006-06-01 00:00:00,Interstate Departures ;  Australia ;,82.9
+2006-09-01 00:00:00,Interstate Departures ;  Australia ;,77.3
+2006-12-01 00:00:00,Interstate Departures ;  Australia ;,99.4
+2007-03-01 00:00:00,Interstate Departures ;  Australia ;,90.6
+2007-06-01 00:00:00,Interstate Departures ;  Australia ;,91.9
+2007-09-01 00:00:00,Interstate Departures ;  Australia ;,82
+2007-12-01 00:00:00,Interstate Departures ;  Australia ;,98.9
+2008-03-01 00:00:00,Interstate Departures ;  Australia ;,92.3
+2008-06-01 00:00:00,Interstate Departures ;  Australia ;,88.2
+2008-09-01 00:00:00,Interstate Departures ;  Australia ;,81.1
+2008-12-01 00:00:00,Interstate Departures ;  Australia ;,103
+2009-03-01 00:00:00,Interstate Departures ;  Australia ;,88.8
+2009-06-01 00:00:00,Interstate Departures ;  Australia ;,87.6
+2009-09-01 00:00:00,Interstate Departures ;  Australia ;,75.8
+2009-12-01 00:00:00,Interstate Departures ;  Australia ;,91.7
+2010-03-01 00:00:00,Interstate Departures ;  Australia ;,82
+2010-06-01 00:00:00,Interstate Departures ;  Australia ;,82.4
+2010-09-01 00:00:00,Interstate Departures ;  Australia ;,75.5
+2010-12-01 00:00:00,Interstate Departures ;  Australia ;,95.5
+2011-03-01 00:00:00,Interstate Departures ;  Australia ;,84.4
+2011-06-01 00:00:00,Interstate Departures ;  Australia ;,83
+2011-09-01 00:00:00,Interstate Departures ;  Australia ;,80.5
+2011-12-01 00:00:00,Interstate Departures ;  Australia ;,102.9
+2012-03-01 00:00:00,Interstate Departures ;  Australia ;,89.1
+2012-06-01 00:00:00,Interstate Departures ;  Australia ;,85.4
+2012-09-01 00:00:00,Interstate Departures ;  Australia ;,76.8
+2012-12-01 00:00:00,Interstate Departures ;  Australia ;,88.1
+2013-03-01 00:00:00,Interstate Departures ;  Australia ;,90.5
+2013-06-01 00:00:00,Interstate Departures ;  Australia ;,90.1
+2013-09-01 00:00:00,Interstate Departures ;  Australia ;,78.8
+2013-12-01 00:00:00,Interstate Departures ;  Australia ;,100.7
+2014-03-01 00:00:00,Interstate Departures ;  Australia ;,93.3
+2014-06-01 00:00:00,Interstate Departures ;  Australia ;,84.9
+2014-09-01 00:00:00,Interstate Departures ;  Australia ;,71.8
+2014-12-01 00:00:00,Interstate Departures ;  Australia ;,94
+2015-03-01 00:00:00,Interstate Departures ;  Australia ;,87.2
+2015-06-01 00:00:00,Interstate Departures ;  Australia ;,91
+2015-09-01 00:00:00,Interstate Departures ;  Australia ;,78.1
+2015-12-01 00:00:00,Interstate Departures ;  Australia ;,99
+2016-03-01 00:00:00,Interstate Departures ;  Australia ;,94.7
+2016-06-01 00:00:00,Interstate Departures ;  Australia ;,100.1
+2016-09-01 00:00:00,Interstate Departures ;  Australia ;,91.8
+2016-12-01 00:00:00,Interstate Departures ;  Australia ;,124.6
+2017-03-01 00:00:00,Interstate Departures ;  Australia ;,108.8
+2017-06-01 00:00:00,Interstate Departures ;  Australia ;,110.2
+2017-09-01 00:00:00,Interstate Departures ;  Australia ;,99.8
+2017-12-01 00:00:00,Interstate Departures ;  Australia ;,128.4
+2018-03-01 00:00:00,Interstate Departures ;  Australia ;,113.7
+2018-06-01 00:00:00,Interstate Departures ;  Australia ;,114.5
+2018-09-01 00:00:00,Interstate Departures ;  Australia ;,101.8
+2018-12-01 00:00:00,Interstate Departures ;  Australia ;,134.8
+2019-03-01 00:00:00,Interstate Departures ;  Australia ;,118.8
+2019-06-01 00:00:00,Interstate Departures ;  Australia ;,120.8
+2019-09-01 00:00:00,Interstate Departures ;  Australia ;,105.5
+2019-12-01 00:00:00,Interstate Departures ;  Australia ;,131.3
+2020-03-01 00:00:00,Interstate Departures ;  Australia ;,93
+2020-06-01 00:00:00,Interstate Departures ;  Australia ;,91
+2020-09-01 00:00:00,Interstate Departures ;  Australia ;,64.9
+2020-12-01 00:00:00,Interstate Departures ;  Australia ;,89.1
+2021-03-01 00:00:00,Interstate Departures ;  Australia ;,87.3
+2021-06-01 00:00:00,Interstate Departures ;  Australia ;,124.2
+2021-09-01 00:00:00,Interstate Departures ;  Australia ;,100.5
+2021-12-01 00:00:00,Interstate Departures ;  Australia ;,114.6
+2022-03-01 00:00:00,Interstate Departures ;  Australia ;,104.2
+2022-06-01 00:00:00,Interstate Departures ;  Australia ;,99.4
+2022-09-01 00:00:00,Interstate Departures ;  Australia ;,78.9
+2022-12-01 00:00:00,Interstate Departures ;  Australia ;,113.5
+2023-03-01 00:00:00,Interstate Departures ;  Australia ;,98.3
+2023-06-01 00:00:00,Interstate Departures ;  Australia ;,95.1
+2023-09-01 00:00:00,Interstate Departures ;  Australia ;,86.9
+2023-12-01 00:00:00,Interstate Departures ;  Australia ;,105.7
+2024-03-01 00:00:00,Interstate Departures ;  Australia ;,97.2
+2024-06-01 00:00:00,Interstate Departures ;  Australia ;,95
+2024-09-01 00:00:00,Interstate Departures ;  Australia ;,82.1
+2024-12-01 00:00:00,Interstate Departures ;  Australia ;,103.5
+Unit,Overseas Arrivals ;  Australia ;,000
+Series Type,Overseas Arrivals ;  Australia ;,Original
+Data Type,Overseas Arrivals ;  Australia ;,FLOW
+Frequency,Overseas Arrivals ;  Australia ;,Quarter
+Collection Month,Overseas Arrivals ;  Australia ;,3
+Series Start,Overseas Arrivals ;  Australia ;,1981-06-01 00:00:00
+Series End,Overseas Arrivals ;  Australia ;,2024-12-01 00:00:00
+No. Obs,Overseas Arrivals ;  Australia ;,175
+Series ID,Overseas Arrivals ;  Australia ;,A2133248J
+1981-06-01 00:00:00,Overseas Arrivals ;  Australia ;,48.2
+1981-09-01 00:00:00,Overseas Arrivals ;  Australia ;,50
+1981-12-01 00:00:00,Overseas Arrivals ;  Australia ;,56.7
+1982-03-01 00:00:00,Overseas Arrivals ;  Australia ;,58.7
+1982-06-01 00:00:00,Overseas Arrivals ;  Australia ;,45.3
+1982-09-01 00:00:00,Overseas Arrivals ;  Australia ;,45.6
+1982-12-01 00:00:00,Overseas Arrivals ;  Australia ;,45.6
+1983-03-01 00:00:00,Overseas Arrivals ;  Australia ;,47.4
+1983-06-01 00:00:00,Overseas Arrivals ;  Australia ;,34.1
+1983-09-01 00:00:00,Overseas Arrivals ;  Australia ;,34.2
+1983-12-01 00:00:00,Overseas Arrivals ;  Australia ;,37.8
+1984-03-01 00:00:00,Overseas Arrivals ;  Australia ;,41.3
+1984-06-01 00:00:00,Overseas Arrivals ;  Australia ;,32
+1984-09-01 00:00:00,Overseas Arrivals ;  Australia ;,36.8
+1984-12-01 00:00:00,Overseas Arrivals ;  Australia ;,43.4
+1985-03-01 00:00:00,Overseas Arrivals ;  Australia ;,46.5
+1985-06-01 00:00:00,Overseas Arrivals ;  Australia ;,36.5
+1985-09-01 00:00:00,Overseas Arrivals ;  Australia ;,40.9
+1985-12-01 00:00:00,Overseas Arrivals ;  Australia ;,48.7
+1986-03-01 00:00:00,Overseas Arrivals ;  Australia ;,53.6
+1986-06-01 00:00:00,Overseas Arrivals ;  Australia ;,43.2
+1986-09-01 00:00:00,Overseas Arrivals ;  Australia ;,47.2
+1986-12-01 00:00:00,Overseas Arrivals ;  Australia ;,52.7
+1987-03-01 00:00:00,Overseas Arrivals ;  Australia ;,57.1
+1987-06-01 00:00:00,Overseas Arrivals ;  Australia ;,47.5
+1987-09-01 00:00:00,Overseas Arrivals ;  Australia ;,54.2
+1987-12-01 00:00:00,Overseas Arrivals ;  Australia ;,62.8
+1988-03-01 00:00:00,Overseas Arrivals ;  Australia ;,69.8
+1988-06-01 00:00:00,Overseas Arrivals ;  Australia ;,55.4
+1988-09-01 00:00:00,Overseas Arrivals ;  Australia ;,62.5
+1988-12-01 00:00:00,Overseas Arrivals ;  Australia ;,66.1
+1989-03-01 00:00:00,Overseas Arrivals ;  Australia ;,67.9
+1989-06-01 00:00:00,Overseas Arrivals ;  Australia ;,53.4
+1989-09-01 00:00:00,Overseas Arrivals ;  Australia ;,57.5
+1989-12-01 00:00:00,Overseas Arrivals ;  Australia ;,59.3
+1990-03-01 00:00:00,Overseas Arrivals ;  Australia ;,64.3
+1990-06-01 00:00:00,Overseas Arrivals ;  Australia ;,50.8
+1990-09-01 00:00:00,Overseas Arrivals ;  Australia ;,58.7
+1990-12-01 00:00:00,Overseas Arrivals ;  Australia ;,60.2
+1991-03-01 00:00:00,Overseas Arrivals ;  Australia ;,68.5
+1991-06-01 00:00:00,Overseas Arrivals ;  Australia ;,49
+1991-09-01 00:00:00,Overseas Arrivals ;  Australia ;,60.1
+1991-12-01 00:00:00,Overseas Arrivals ;  Australia ;,59.6
+1992-03-01 00:00:00,Overseas Arrivals ;  Australia ;,68.3
+1992-06-01 00:00:00,Overseas Arrivals ;  Australia ;,46.1
+1992-09-01 00:00:00,Overseas Arrivals ;  Australia ;,52.4
+1992-12-01 00:00:00,Overseas Arrivals ;  Australia ;,53.7
+1993-03-01 00:00:00,Overseas Arrivals ;  Australia ;,59.3
+1993-06-01 00:00:00,Overseas Arrivals ;  Australia ;,38.4
+1993-09-01 00:00:00,Overseas Arrivals ;  Australia ;,49.3
+1993-12-01 00:00:00,Overseas Arrivals ;  Australia ;,50.9
+1994-03-01 00:00:00,Overseas Arrivals ;  Australia ;,63.5
+1994-06-01 00:00:00,Overseas Arrivals ;  Australia ;,43.7
+1994-09-01 00:00:00,Overseas Arrivals ;  Australia ;,56.6
+1994-12-01 00:00:00,Overseas Arrivals ;  Australia ;,58.2
+1995-03-01 00:00:00,Overseas Arrivals ;  Australia ;,73.3
+1995-06-01 00:00:00,Overseas Arrivals ;  Australia ;,50.5
+1995-09-01 00:00:00,Overseas Arrivals ;  Australia ;,64
+1995-12-01 00:00:00,Overseas Arrivals ;  Australia ;,66.2
+1996-03-01 00:00:00,Overseas Arrivals ;  Australia ;,82.7
+1996-06-01 00:00:00,Overseas Arrivals ;  Australia ;,49.9
+1996-09-01 00:00:00,Overseas Arrivals ;  Australia ;,64.3
+1996-12-01 00:00:00,Overseas Arrivals ;  Australia ;,64.4
+1997-03-01 00:00:00,Overseas Arrivals ;  Australia ;,82.7
+1997-06-01 00:00:00,Overseas Arrivals ;  Australia ;,49.5
+1997-09-01 00:00:00,Overseas Arrivals ;  Australia ;,65.1
+1997-12-01 00:00:00,Overseas Arrivals ;  Australia ;,62.9
+1998-03-01 00:00:00,Overseas Arrivals ;  Australia ;,83.4
+1998-06-01 00:00:00,Overseas Arrivals ;  Australia ;,54.1
+1998-09-01 00:00:00,Overseas Arrivals ;  Australia ;,67.6
+1998-12-01 00:00:00,Overseas Arrivals ;  Australia ;,63.3
+1999-03-01 00:00:00,Overseas Arrivals ;  Australia ;,85.4
+1999-06-01 00:00:00,Overseas Arrivals ;  Australia ;,55.6
+1999-09-01 00:00:00,Overseas Arrivals ;  Australia ;,75.3
+1999-12-01 00:00:00,Overseas Arrivals ;  Australia ;,73.6
+2000-03-01 00:00:00,Overseas Arrivals ;  Australia ;,93.9
+2000-06-01 00:00:00,Overseas Arrivals ;  Australia ;,62.4
+2000-09-01 00:00:00,Overseas Arrivals ;  Australia ;,80.2
+2000-12-01 00:00:00,Overseas Arrivals ;  Australia ;,81
+2001-03-01 00:00:00,Overseas Arrivals ;  Australia ;,116.1
+2001-06-01 00:00:00,Overseas Arrivals ;  Australia ;,71.2
+2001-09-01 00:00:00,Overseas Arrivals ;  Australia ;,88.8
+2001-12-01 00:00:00,Overseas Arrivals ;  Australia ;,80.4
+2002-03-01 00:00:00,Overseas Arrivals ;  Australia ;,113.9
+2002-06-01 00:00:00,Overseas Arrivals ;  Australia ;,70.3
+2002-09-01 00:00:00,Overseas Arrivals ;  Australia ;,93.6
+2002-12-01 00:00:00,Overseas Arrivals ;  Australia ;,84.2
+2003-03-01 00:00:00,Overseas Arrivals ;  Australia ;,122
+2003-06-01 00:00:00,Overseas Arrivals ;  Australia ;,74.1
+2003-09-01 00:00:00,Overseas Arrivals ;  Australia ;,101.7
+2003-12-01 00:00:00,Overseas Arrivals ;  Australia ;,90.7
+2004-03-01 00:00:00,Overseas Arrivals ;  Australia ;,128.9
+2004-06-01 00:00:00,Overseas Arrivals ;  Australia ;,80
+2004-09-01 00:00:00,Overseas Arrivals ;  Australia ;,107.7
+2004-12-01 00:00:00,Overseas Arrivals ;  Australia ;,95.9
+2005-03-01 00:00:00,Overseas Arrivals ;  Australia ;,138.7
+2005-06-01 00:00:00,Overseas Arrivals ;  Australia ;,84.6
+2005-09-01 00:00:00,Overseas Arrivals ;  Australia ;,114.1
+2005-12-01 00:00:00,Overseas Arrivals ;  Australia ;,104.9
+2006-03-01 00:00:00,Overseas Arrivals ;  Australia ;,146
+2006-06-01 00:00:00,Overseas Arrivals ;  Australia ;,92.4
+2006-09-01 00:00:00,Overseas Arrivals ;  Australia ;,108.4
+2006-12-01 00:00:00,Overseas Arrivals ;  Australia ;,105
+2007-03-01 00:00:00,Overseas Arrivals ;  Australia ;,125.2
+2007-06-01 00:00:00,Overseas Arrivals ;  Australia ;,98.8
+2007-09-01 00:00:00,Overseas Arrivals ;  Australia ;,120.1
+2007-12-01 00:00:00,Overseas Arrivals ;  Australia ;,116.4
+2008-03-01 00:00:00,Overseas Arrivals ;  Australia ;,146.6
+2008-06-01 00:00:00,Overseas Arrivals ;  Australia ;,118.2
+2008-09-01 00:00:00,Overseas Arrivals ;  Australia ;,139
+2008-12-01 00:00:00,Overseas Arrivals ;  Australia ;,132.2
+2009-03-01 00:00:00,Overseas Arrivals ;  Australia ;,143.2
+2009-06-01 00:00:00,Overseas Arrivals ;  Australia ;,105.4
+2009-09-01 00:00:00,Overseas Arrivals ;  Australia ;,122.6
+2009-12-01 00:00:00,Overseas Arrivals ;  Australia ;,107.6
+2010-03-01 00:00:00,Overseas Arrivals ;  Australia ;,119.2
+2010-06-01 00:00:00,Overseas Arrivals ;  Australia ;,88.5
+2010-09-01 00:00:00,Overseas Arrivals ;  Australia ;,109.6
+2010-12-01 00:00:00,Overseas Arrivals ;  Australia ;,107.8
+2011-03-01 00:00:00,Overseas Arrivals ;  Australia ;,120.4
+2011-06-01 00:00:00,Overseas Arrivals ;  Australia ;,94
+2011-09-01 00:00:00,Overseas Arrivals ;  Australia ;,117.7
+2011-12-01 00:00:00,Overseas Arrivals ;  Australia ;,116.9
+2012-03-01 00:00:00,Overseas Arrivals ;  Australia ;,128.7
+2012-06-01 00:00:00,Overseas Arrivals ;  Australia ;,104
+2012-09-01 00:00:00,Overseas Arrivals ;  Australia ;,125.9
+2012-12-01 00:00:00,Overseas Arrivals ;  Australia ;,119.7
+2013-03-01 00:00:00,Overseas Arrivals ;  Australia ;,134.2
+2013-06-01 00:00:00,Overseas Arrivals ;  Australia ;,102.2
+2013-09-01 00:00:00,Overseas Arrivals ;  Australia ;,128.1
+2013-12-01 00:00:00,Overseas Arrivals ;  Australia ;,114.1
+2014-03-01 00:00:00,Overseas Arrivals ;  Australia ;,128.2
+2014-06-01 00:00:00,Overseas Arrivals ;  Australia ;,94.3
+2014-09-01 00:00:00,Overseas Arrivals ;  Australia ;,123.3
+2014-12-01 00:00:00,Overseas Arrivals ;  Australia ;,113
+2015-03-01 00:00:00,Overseas Arrivals ;  Australia ;,130
+2015-06-01 00:00:00,Overseas Arrivals ;  Australia ;,98.9
+2015-09-01 00:00:00,Overseas Arrivals ;  Australia ;,127.4
+2015-12-01 00:00:00,Overseas Arrivals ;  Australia ;,116.9
+2016-03-01 00:00:00,Overseas Arrivals ;  Australia ;,138.1
+2016-06-01 00:00:00,Overseas Arrivals ;  Australia ;,106.8
+2016-09-01 00:00:00,Overseas Arrivals ;  Australia ;,145.2
+2016-12-01 00:00:00,Overseas Arrivals ;  Australia ;,129.4
+2017-03-01 00:00:00,Overseas Arrivals ;  Australia ;,155.1
+2017-06-01 00:00:00,Overseas Arrivals ;  Australia ;,110.3
+2017-09-01 00:00:00,Overseas Arrivals ;  Australia ;,145.2
+2017-12-01 00:00:00,Overseas Arrivals ;  Australia ;,120.8
+2018-03-01 00:00:00,Overseas Arrivals ;  Australia ;,151
+2018-06-01 00:00:00,Overseas Arrivals ;  Australia ;,110.6
+2018-09-01 00:00:00,Overseas Arrivals ;  Australia ;,148.6
+2018-12-01 00:00:00,Overseas Arrivals ;  Australia ;,124.2
+2019-03-01 00:00:00,Overseas Arrivals ;  Australia ;,153.2
+2019-06-01 00:00:00,Overseas Arrivals ;  Australia ;,124.4
+2019-09-01 00:00:00,Overseas Arrivals ;  Australia ;,164.5
+2019-12-01 00:00:00,Overseas Arrivals ;  Australia ;,165.7
+2020-03-01 00:00:00,Overseas Arrivals ;  Australia ;,163.7
+2020-06-01 00:00:00,Overseas Arrivals ;  Australia ;,12.9
+2020-09-01 00:00:00,Overseas Arrivals ;  Australia ;,19.6
+2020-12-01 00:00:00,Overseas Arrivals ;  Australia ;,39.1
+2021-03-01 00:00:00,Overseas Arrivals ;  Australia ;,41.3
+2021-06-01 00:00:00,Overseas Arrivals ;  Australia ;,45.9
+2021-09-01 00:00:00,Overseas Arrivals ;  Australia ;,34.9
+2021-12-01 00:00:00,Overseas Arrivals ;  Australia ;,92.3
+2022-03-01 00:00:00,Overseas Arrivals ;  Australia ;,161
+2022-06-01 00:00:00,Overseas Arrivals ;  Australia ;,135.8
+2022-09-01 00:00:00,Overseas Arrivals ;  Australia ;,180.2
+2022-12-01 00:00:00,Overseas Arrivals ;  Australia ;,174.4
+2023-03-01 00:00:00,Overseas Arrivals ;  Australia ;,214.6
+2023-06-01 00:00:00,Overseas Arrivals ;  Australia ;,169.2
+2023-09-01 00:00:00,Overseas Arrivals ;  Australia ;,197.3
+2023-12-01 00:00:00,Overseas Arrivals ;  Australia ;,158
+2024-03-01 00:00:00,Overseas Arrivals ;  Australia ;,185
+2024-06-01 00:00:00,Overseas Arrivals ;  Australia ;,120.1
+2024-09-01 00:00:00,Overseas Arrivals ;  Australia ;,151.8
+2024-12-01 00:00:00,Overseas Arrivals ;  Australia ;,138
+Unit,Overseas Departures ;  Australia ;,000
+Series Type,Overseas Departures ;  Australia ;,Original
+Data Type,Overseas Departures ;  Australia ;,FLOW
+Frequency,Overseas Departures ;  Australia ;,Quarter
+Collection Month,Overseas Departures ;  Australia ;,3
+Series Start,Overseas Departures ;  Australia ;,1981-06-01 00:00:00
+Series End,Overseas Departures ;  Australia ;,2024-12-01 00:00:00
+No. Obs,Overseas Departures ;  Australia ;,175
+Series ID,Overseas Departures ;  Australia ;,A2133249K
+1981-06-01 00:00:00,Overseas Departures ;  Australia ;,19.1
+1981-09-01 00:00:00,Overseas Departures ;  Australia ;,19.1
+1981-12-01 00:00:00,Overseas Departures ;  Australia ;,21.7
+1982-03-01 00:00:00,Overseas Departures ;  Australia ;,26.3
+1982-06-01 00:00:00,Overseas Departures ;  Australia ;,20.5
+1982-09-01 00:00:00,Overseas Departures ;  Australia ;,21.2
+1982-12-01 00:00:00,Overseas Departures ;  Australia ;,24.3
+1983-03-01 00:00:00,Overseas Departures ;  Australia ;,29.3
+1983-06-01 00:00:00,Overseas Departures ;  Australia ;,22.5
+1983-09-01 00:00:00,Overseas Departures ;  Australia ;,23.9
+1983-12-01 00:00:00,Overseas Departures ;  Australia ;,24.8
+1984-03-01 00:00:00,Overseas Departures ;  Australia ;,27
+1984-06-01 00:00:00,Overseas Departures ;  Australia ;,23
+1984-09-01 00:00:00,Overseas Departures ;  Australia ;,22
+1984-12-01 00:00:00,Overseas Departures ;  Australia ;,24.4
+1985-03-01 00:00:00,Overseas Departures ;  Australia ;,26.4
+1985-06-01 00:00:00,Overseas Departures ;  Australia ;,22.5
+1985-09-01 00:00:00,Overseas Departures ;  Australia ;,21.4
+1985-12-01 00:00:00,Overseas Departures ;  Australia ;,23.1
+1986-03-01 00:00:00,Overseas Departures ;  Australia ;,26.2
+1986-06-01 00:00:00,Overseas Departures ;  Australia ;,21.8
+1986-09-01 00:00:00,Overseas Departures ;  Australia ;,21.2
+1986-12-01 00:00:00,Overseas Departures ;  Australia ;,23.2
+1987-03-01 00:00:00,Overseas Departures ;  Australia ;,28.2
+1987-06-01 00:00:00,Overseas Departures ;  Australia ;,22.6
+1987-09-01 00:00:00,Overseas Departures ;  Australia ;,22.9
+1987-12-01 00:00:00,Overseas Departures ;  Australia ;,24
+1988-03-01 00:00:00,Overseas Departures ;  Australia ;,28
+1988-06-01 00:00:00,Overseas Departures ;  Australia ;,24.1
+1988-09-01 00:00:00,Overseas Departures ;  Australia ;,24.8
+1988-12-01 00:00:00,Overseas Departures ;  Australia ;,27.9
+1989-03-01 00:00:00,Overseas Departures ;  Australia ;,32.6
+1989-06-01 00:00:00,Overseas Departures ;  Australia ;,27.3
+1989-09-01 00:00:00,Overseas Departures ;  Australia ;,28.2
+1989-12-01 00:00:00,Overseas Departures ;  Australia ;,31.9
+1990-03-01 00:00:00,Overseas Departures ;  Australia ;,35.9
+1990-06-01 00:00:00,Overseas Departures ;  Australia ;,32.1
+1990-09-01 00:00:00,Overseas Departures ;  Australia ;,32.6
+1990-12-01 00:00:00,Overseas Departures ;  Australia ;,36.9
+1991-03-01 00:00:00,Overseas Departures ;  Australia ;,39.9
+1991-06-01 00:00:00,Overseas Departures ;  Australia ;,32.2
+1991-09-01 00:00:00,Overseas Departures ;  Australia ;,33.5
+1991-12-01 00:00:00,Overseas Departures ;  Australia ;,38.1
+1992-03-01 00:00:00,Overseas Departures ;  Australia ;,40.2
+1992-06-01 00:00:00,Overseas Departures ;  Australia ;,32.5
+1992-09-01 00:00:00,Overseas Departures ;  Australia ;,33.2
+1992-12-01 00:00:00,Overseas Departures ;  Australia ;,37.7
+1993-03-01 00:00:00,Overseas Departures ;  Australia ;,38.8
+1993-06-01 00:00:00,Overseas Departures ;  Australia ;,31.4
+1993-09-01 00:00:00,Overseas Departures ;  Australia ;,33
+1993-12-01 00:00:00,Overseas Departures ;  Australia ;,37.3
+1994-03-01 00:00:00,Overseas Departures ;  Australia ;,37.8
+1994-06-01 00:00:00,Overseas Departures ;  Australia ;,32
+1994-09-01 00:00:00,Overseas Departures ;  Australia ;,33.1
+1994-12-01 00:00:00,Overseas Departures ;  Australia ;,38.9
+1995-03-01 00:00:00,Overseas Departures ;  Australia ;,40.8
+1995-06-01 00:00:00,Overseas Departures ;  Australia ;,32.7
+1995-09-01 00:00:00,Overseas Departures ;  Australia ;,35
+1995-12-01 00:00:00,Overseas Departures ;  Australia ;,40.8
+1996-03-01 00:00:00,Overseas Departures ;  Australia ;,43
+1996-06-01 00:00:00,Overseas Departures ;  Australia ;,34.2
+1996-09-01 00:00:00,Overseas Departures ;  Australia ;,36.7
+1996-12-01 00:00:00,Overseas Departures ;  Australia ;,44.3
+1997-03-01 00:00:00,Overseas Departures ;  Australia ;,46.6
+1997-06-01 00:00:00,Overseas Departures ;  Australia ;,38.9
+1997-09-01 00:00:00,Overseas Departures ;  Australia ;,42.2
+1997-12-01 00:00:00,Overseas Departures ;  Australia ;,48.8
+1998-03-01 00:00:00,Overseas Departures ;  Australia ;,49.7
+1998-06-01 00:00:00,Overseas Departures ;  Australia ;,45.6
+1998-09-01 00:00:00,Overseas Departures ;  Australia ;,41.1
+1998-12-01 00:00:00,Overseas Departures ;  Australia ;,43.2
+1999-03-01 00:00:00,Overseas Departures ;  Australia ;,50.3
+1999-06-01 00:00:00,Overseas Departures ;  Australia ;,40.8
+1999-09-01 00:00:00,Overseas Departures ;  Australia ;,45.5
+1999-12-01 00:00:00,Overseas Departures ;  Australia ;,49
+2000-03-01 00:00:00,Overseas Departures ;  Australia ;,56.4
+2000-06-01 00:00:00,Overseas Departures ;  Australia ;,46.9
+2000-09-01 00:00:00,Overseas Departures ;  Australia ;,48.3
+2000-12-01 00:00:00,Overseas Departures ;  Australia ;,54.4
+2001-03-01 00:00:00,Overseas Departures ;  Australia ;,61.3
+2001-06-01 00:00:00,Overseas Departures ;  Australia ;,48.8
+2001-09-01 00:00:00,Overseas Departures ;  Australia ;,53.1
+2001-12-01 00:00:00,Overseas Departures ;  Australia ;,52.9
+2002-03-01 00:00:00,Overseas Departures ;  Australia ;,63.4
+2002-06-01 00:00:00,Overseas Departures ;  Australia ;,50.3
+2002-09-01 00:00:00,Overseas Departures ;  Australia ;,53.6
+2002-12-01 00:00:00,Overseas Departures ;  Australia ;,55.7
+2003-03-01 00:00:00,Overseas Departures ;  Australia ;,61.6
+2003-06-01 00:00:00,Overseas Departures ;  Australia ;,48.7
+2003-09-01 00:00:00,Overseas Departures ;  Australia ;,54.3
+2003-12-01 00:00:00,Overseas Departures ;  Australia ;,60.3
+2004-03-01 00:00:00,Overseas Departures ;  Australia ;,66
+2004-06-01 00:00:00,Overseas Departures ;  Australia ;,56.1
+2004-09-01 00:00:00,Overseas Departures ;  Australia ;,57
+2004-12-01 00:00:00,Overseas Departures ;  Australia ;,64.6
+2005-03-01 00:00:00,Overseas Departures ;  Australia ;,69.9
+2005-06-01 00:00:00,Overseas Departures ;  Australia ;,57.5
+2005-09-01 00:00:00,Overseas Departures ;  Australia ;,59
+2005-12-01 00:00:00,Overseas Departures ;  Australia ;,65.4
+2006-03-01 00:00:00,Overseas Departures ;  Australia ;,72.4
+2006-06-01 00:00:00,Overseas Departures ;  Australia ;,61.4
+2006-09-01 00:00:00,Overseas Departures ;  Australia ;,51.5
+2006-12-01 00:00:00,Overseas Departures ;  Australia ;,54.4
+2007-03-01 00:00:00,Overseas Departures ;  Australia ;,49.2
+2007-06-01 00:00:00,Overseas Departures ;  Australia ;,49.6
+2007-09-01 00:00:00,Overseas Departures ;  Australia ;,57.3
+2007-12-01 00:00:00,Overseas Departures ;  Australia ;,60.4
+2008-03-01 00:00:00,Overseas Departures ;  Australia ;,53.1
+2008-06-01 00:00:00,Overseas Departures ;  Australia ;,53.1
+2008-09-01 00:00:00,Overseas Departures ;  Australia ;,54.9
+2008-12-01 00:00:00,Overseas Departures ;  Australia ;,59.1
+2009-03-01 00:00:00,Overseas Departures ;  Australia ;,54.5
+2009-06-01 00:00:00,Overseas Departures ;  Australia ;,51.4
+2009-09-01 00:00:00,Overseas Departures ;  Australia ;,60.1
+2009-12-01 00:00:00,Overseas Departures ;  Australia ;,65.9
+2010-03-01 00:00:00,Overseas Departures ;  Australia ;,59.4
+2010-06-01 00:00:00,Overseas Departures ;  Australia ;,56.5
+2010-09-01 00:00:00,Overseas Departures ;  Australia ;,67.8
+2010-12-01 00:00:00,Overseas Departures ;  Australia ;,69.4
+2011-03-01 00:00:00,Overseas Departures ;  Australia ;,59.5
+2011-06-01 00:00:00,Overseas Departures ;  Australia ;,54.7
+2011-09-01 00:00:00,Overseas Departures ;  Australia ;,62.3
+2011-12-01 00:00:00,Overseas Departures ;  Australia ;,66.3
+2012-03-01 00:00:00,Overseas Departures ;  Australia ;,54.7
+2012-06-01 00:00:00,Overseas Departures ;  Australia ;,52.1
+2012-09-01 00:00:00,Overseas Departures ;  Australia ;,62.5
+2012-12-01 00:00:00,Overseas Departures ;  Australia ;,68.8
+2013-03-01 00:00:00,Overseas Departures ;  Australia ;,63
+2013-06-01 00:00:00,Overseas Departures ;  Australia ;,57.5
+2013-09-01 00:00:00,Overseas Departures ;  Australia ;,73.9
+2013-12-01 00:00:00,Overseas Departures ;  Australia ;,76
+2014-03-01 00:00:00,Overseas Departures ;  Australia ;,63.1
+2014-06-01 00:00:00,Overseas Departures ;  Australia ;,63.9
+2014-09-01 00:00:00,Overseas Departures ;  Australia ;,73.1
+2014-12-01 00:00:00,Overseas Departures ;  Australia ;,76.3
+2015-03-01 00:00:00,Overseas Departures ;  Australia ;,66.3
+2015-06-01 00:00:00,Overseas Departures ;  Australia ;,65.6
+2015-09-01 00:00:00,Overseas Departures ;  Australia ;,77
+2015-12-01 00:00:00,Overseas Departures ;  Australia ;,77.6
+2016-03-01 00:00:00,Overseas Departures ;  Australia ;,65.1
+2016-06-01 00:00:00,Overseas Departures ;  Australia ;,63.3
+2016-09-01 00:00:00,Overseas Departures ;  Australia ;,71.6
+2016-12-01 00:00:00,Overseas Departures ;  Australia ;,75.9
+2017-03-01 00:00:00,Overseas Departures ;  Australia ;,66.4
+2017-06-01 00:00:00,Overseas Departures ;  Australia ;,63
+2017-09-01 00:00:00,Overseas Departures ;  Australia ;,75.4
+2017-12-01 00:00:00,Overseas Departures ;  Australia ;,84.9
+2018-03-01 00:00:00,Overseas Departures ;  Australia ;,65.9
+2018-06-01 00:00:00,Overseas Departures ;  Australia ;,63.1
+2018-09-01 00:00:00,Overseas Departures ;  Australia ;,74.7
+2018-12-01 00:00:00,Overseas Departures ;  Australia ;,78.5
+2019-03-01 00:00:00,Overseas Departures ;  Australia ;,69.6
+2019-06-01 00:00:00,Overseas Departures ;  Australia ;,86.2
+2019-09-01 00:00:00,Overseas Departures ;  Australia ;,90
+2019-12-01 00:00:00,Overseas Departures ;  Australia ;,114.4
+2020-03-01 00:00:00,Overseas Departures ;  Australia ;,88.5
+2020-06-01 00:00:00,Overseas Departures ;  Australia ;,21.2
+2020-09-01 00:00:00,Overseas Departures ;  Australia ;,62.2
+2020-12-01 00:00:00,Overseas Departures ;  Australia ;,68.4
+2021-03-01 00:00:00,Overseas Departures ;  Australia ;,55.5
+2021-06-01 00:00:00,Overseas Departures ;  Australia ;,44.8
+2021-09-01 00:00:00,Overseas Departures ;  Australia ;,47.9
+2021-12-01 00:00:00,Overseas Departures ;  Australia ;,56.9
+2022-03-01 00:00:00,Overseas Departures ;  Australia ;,53.4
+2022-06-01 00:00:00,Overseas Departures ;  Australia ;,57.8
+2022-09-01 00:00:00,Overseas Departures ;  Australia ;,52.5
+2022-12-01 00:00:00,Overseas Departures ;  Australia ;,49.7
+2023-03-01 00:00:00,Overseas Departures ;  Australia ;,49.1
+2023-06-01 00:00:00,Overseas Departures ;  Australia ;,48.7
+2023-09-01 00:00:00,Overseas Departures ;  Australia ;,52.1
+2023-12-01 00:00:00,Overseas Departures ;  Australia ;,58.5
+2024-03-01 00:00:00,Overseas Departures ;  Australia ;,56.3
+2024-06-01 00:00:00,Overseas Departures ;  Australia ;,63
+2024-09-01 00:00:00,Overseas Departures ;  Australia ;,65
+2024-12-01 00:00:00,Overseas Departures ;  Australia ;,70
+Unit,Net Permanent and Long Term Movement ;  Australia ;,000
+Series Type,Net Permanent and Long Term Movement ;  Australia ;,Original
+Data Type,Net Permanent and Long Term Movement ;  Australia ;,FLOW
+Frequency,Net Permanent and Long Term Movement ;  Australia ;,Quarter
+Collection Month,Net Permanent and Long Term Movement ;  Australia ;,3
+Series Start,Net Permanent and Long Term Movement ;  Australia ;,1981-06-01 00:00:00
+Series End,Net Permanent and Long Term Movement ;  Australia ;,2024-12-01 00:00:00
+No. Obs,Net Permanent and Long Term Movement ;  Australia ;,175
+Series ID,Net Permanent and Long Term Movement ;  Australia ;,A2133253A
+1981-06-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,29.1
+1981-09-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,30.8
+1981-12-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,35
+1982-03-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,32.4
+1982-06-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,24.8
+1982-09-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,24.4
+1982-12-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,21.3
+1983-03-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,18.1
+1983-06-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,11.6
+1983-09-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,10.3
+1983-12-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,13
+1984-03-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,14.3
+1984-06-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,9
+1984-09-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,14.9
+1984-12-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,19.1
+1985-03-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,20.1
+1985-06-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,13.9
+1985-09-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,19.5
+1985-12-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,25.6
+1986-03-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,27.5
+1986-06-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,21.4
+1986-09-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,25.9
+1986-12-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,29.4
+1987-03-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,28.9
+1987-06-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,24.9
+1987-09-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,31.3
+1987-12-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,38.8
+1988-03-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,41.8
+1988-06-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,31.4
+1988-09-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,37.7
+1988-12-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,38.3
+1989-03-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,35.3
+1989-06-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,26
+1989-09-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,29.3
+1989-12-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,27.4
+1990-03-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,28.4
+1990-06-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,18.8
+1990-09-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,26.1
+1990-12-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,23.3
+1991-03-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,28.5
+1991-06-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,16.8
+1991-09-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,26.6
+1991-12-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,21.6
+1992-03-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,28.1
+1992-06-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,13.6
+1992-09-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,19.1
+1992-12-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,16
+1993-03-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,20.5
+1993-06-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,7.1
+1993-09-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,16.3
+1993-12-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,13.6
+1994-03-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,25.7
+1994-06-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,11.7
+1994-09-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,23.5
+1994-12-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,19.3
+1995-03-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,32.5
+1995-06-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,17.7
+1995-09-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,28.9
+1995-12-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,25.4
+1996-03-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,39.6
+1996-06-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,15.7
+1996-09-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,27.7
+1996-12-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,20.1
+1997-03-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,36.1
+1997-06-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,10.6
+1997-09-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,22.9
+1997-12-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,14
+1998-03-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,33.7
+1998-06-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,8.5
+1998-09-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,26.5
+1998-12-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,20.1
+1999-03-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,35.1
+1999-06-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,14.8
+1999-09-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,29.7
+1999-12-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,24.6
+2000-03-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,37.4
+2000-06-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,15.5
+2000-09-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,31.9
+2000-12-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,26.6
+2001-03-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,54.8
+2001-06-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,22.4
+2001-09-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,35.7
+2001-12-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,27.5
+2002-03-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,50.6
+2002-06-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,20
+2002-09-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,39.9
+2002-12-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,28.5
+2003-03-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,60.4
+2003-06-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,25.4
+2003-09-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,47.4
+2003-12-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,30.4
+2004-03-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,62.9
+2004-06-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,23.9
+2004-09-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,50.7
+2004-12-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,31.3
+2005-03-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,68.8
+2005-06-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,27.1
+2005-09-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,55.2
+2005-12-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,39.4
+2006-03-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,73.7
+2006-06-01 00:00:00,Net Permanent and Long Term Movement ;  Australia ;,31
+Unit,Migration Adjustment ;  Australia ;,000
+Series Type,Migration Adjustment ;  Australia ;,Original
+Data Type,Migration Adjustment ;  Australia ;,FLOW
+Frequency,Migration Adjustment ;  Australia ;,Quarter
+Collection Month,Migration Adjustment ;  Australia ;,3
+Series Start,Migration Adjustment ;  Australia ;,1981-06-01 00:00:00
+Series End,Migration Adjustment ;  Australia ;,2024-12-01 00:00:00
+No. Obs,Migration Adjustment ;  Australia ;,175
+Series ID,Migration Adjustment ;  Australia ;,A2133250V
+1981-06-01 00:00:00,Migration Adjustment ;  Australia ;,-3.6
+1981-09-01 00:00:00,Migration Adjustment ;  Australia ;,3.3
+1981-12-01 00:00:00,Migration Adjustment ;  Australia ;,-0.5
+1982-03-01 00:00:00,Migration Adjustment ;  Australia ;,-1
+1982-06-01 00:00:00,Migration Adjustment ;  Australia ;,3.3
+1982-09-01 00:00:00,Migration Adjustment ;  Australia ;,2.5
+1982-12-01 00:00:00,Migration Adjustment ;  Australia ;,-5
+1983-03-01 00:00:00,Migration Adjustment ;  Australia ;,1.1
+1983-06-01 00:00:00,Migration Adjustment ;  Australia ;,-0.7
+1983-09-01 00:00:00,Migration Adjustment ;  Australia ;,3.3
+1983-12-01 00:00:00,Migration Adjustment ;  Australia ;,-1.7
+1984-03-01 00:00:00,Migration Adjustment ;  Australia ;,-3.3
+1984-06-01 00:00:00,Migration Adjustment ;  Australia ;,4.2
+1984-09-01 00:00:00,Migration Adjustment ;  Australia ;,3.6
+1984-12-01 00:00:00,Migration Adjustment ;  Australia ;,-1.9
+1985-03-01 00:00:00,Migration Adjustment ;  Australia ;,1.7
+1985-06-01 00:00:00,Migration Adjustment ;  Australia ;,2.3
+1985-09-01 00:00:00,Migration Adjustment ;  Australia ;,4.1
+1985-12-01 00:00:00,Migration Adjustment ;  Australia ;,2.1
+1986-03-01 00:00:00,Migration Adjustment ;  Australia ;,-1.7
+1986-06-01 00:00:00,Migration Adjustment ;  Australia ;,2
+1986-09-01 00:00:00,Migration Adjustment ;  Australia ;,3.7
+1986-12-01 00:00:00,Migration Adjustment ;  Australia ;,2.5
+1987-03-01 00:00:00,Migration Adjustment ;  Australia ;,6.1
+1987-06-01 00:00:00,Migration Adjustment ;  Australia ;,4.3
+1987-09-01 00:00:00,Migration Adjustment ;  Australia ;,6.2
+1987-12-01 00:00:00,Migration Adjustment ;  Australia ;,-4.3
+1988-03-01 00:00:00,Migration Adjustment ;  Australia ;,5.5
+1988-06-01 00:00:00,Migration Adjustment ;  Australia ;,-1.2
+1988-09-01 00:00:00,Migration Adjustment ;  Australia ;,15.9
+1988-12-01 00:00:00,Migration Adjustment ;  Australia ;,3.5
+1989-03-01 00:00:00,Migration Adjustment ;  Australia ;,7.7
+1989-06-01 00:00:00,Migration Adjustment ;  Australia ;,-6.9
+1989-09-01 00:00:00,Migration Adjustment ;  Australia ;,4.9
+1989-12-01 00:00:00,Migration Adjustment ;  Australia ;,5.8
+1990-03-01 00:00:00,Migration Adjustment ;  Australia ;,6.3
+1990-06-01 00:00:00,Migration Adjustment ;  Australia ;,3.8
+1990-09-01 00:00:00,Migration Adjustment ;  Australia ;,-1.2
+1990-12-01 00:00:00,Migration Adjustment ;  Australia ;,-8.3
+1991-03-01 00:00:00,Migration Adjustment ;  Australia ;,4.6
+1991-06-01 00:00:00,Migration Adjustment ;  Australia ;,-3.3
+1991-09-01 00:00:00,Migration Adjustment ;  Australia ;,-0.8
+1991-12-01 00:00:00,Migration Adjustment ;  Australia ;,-12.3
+1992-03-01 00:00:00,Migration Adjustment ;  Australia ;,-1
+1992-06-01 00:00:00,Migration Adjustment ;  Australia ;,-7.2
+1992-09-01 00:00:00,Migration Adjustment ;  Australia ;,-4
+1992-12-01 00:00:00,Migration Adjustment ;  Australia ;,-13.2
+1993-03-01 00:00:00,Migration Adjustment ;  Australia ;,-2
+1993-06-01 00:00:00,Migration Adjustment ;  Australia ;,-13.4
+1993-09-01 00:00:00,Migration Adjustment ;  Australia ;,1.5
+1993-12-01 00:00:00,Migration Adjustment ;  Australia ;,-8.7
+1994-03-01 00:00:00,Migration Adjustment ;  Australia ;,-6.2
+1994-06-01 00:00:00,Migration Adjustment ;  Australia ;,-7.4
+1994-09-01 00:00:00,Migration Adjustment ;  Australia ;,4.3
+1994-12-01 00:00:00,Migration Adjustment ;  Australia ;,-15.4
+1995-03-01 00:00:00,Migration Adjustment ;  Australia ;,-7.8
+1995-06-01 00:00:00,Migration Adjustment ;  Australia ;,6.1
+1995-09-01 00:00:00,Migration Adjustment ;  Australia ;,0.2
+1995-12-01 00:00:00,Migration Adjustment ;  Australia ;,3.8
+1996-03-01 00:00:00,Migration Adjustment ;  Australia ;,-14.5
+1996-06-01 00:00:00,Migration Adjustment ;  Australia ;,4.9
+1996-09-01 00:00:00,Migration Adjustment ;  Australia ;,4.6
+1996-12-01 00:00:00,Migration Adjustment ;  Australia ;,-0.7
+1997-03-01 00:00:00,Migration Adjustment ;  Australia ;,-6.7
+1997-06-01 00:00:00,Migration Adjustment ;  Australia ;,-4.5
+2001-09-01 00:00:00,Migration Adjustment ;  Australia ;,-7.9
+2001-12-01 00:00:00,Migration Adjustment ;  Australia ;,3.7
+2002-03-01 00:00:00,Migration Adjustment ;  Australia ;,-14.2
+2002-06-01 00:00:00,Migration Adjustment ;  Australia ;,-4.7
+2002-09-01 00:00:00,Migration Adjustment ;  Australia ;,-10.1
+2002-12-01 00:00:00,Migration Adjustment ;  Australia ;,0.4
+2003-03-01 00:00:00,Migration Adjustment ;  Australia ;,-18.8
+2003-06-01 00:00:00,Migration Adjustment ;  Australia ;,-9.3
+2003-09-01 00:00:00,Migration Adjustment ;  Australia ;,-20.2
+2003-12-01 00:00:00,Migration Adjustment ;  Australia ;,-5.2
+2004-03-01 00:00:00,Migration Adjustment ;  Australia ;,-27.5
+2004-06-01 00:00:00,Migration Adjustment ;  Australia ;,-11.8
+2004-09-01 00:00:00,Migration Adjustment ;  Australia ;,-20.4
+2004-12-01 00:00:00,Migration Adjustment ;  Australia ;,-2.8
+2005-03-01 00:00:00,Migration Adjustment ;  Australia ;,-21.8
+2005-06-01 00:00:00,Migration Adjustment ;  Australia ;,-9.3
+2005-09-01 00:00:00,Migration Adjustment ;  Australia ;,-17.7
+2005-12-01 00:00:00,Migration Adjustment ;  Australia ;,-4.8
+2006-03-01 00:00:00,Migration Adjustment ;  Australia ;,-20.5
+2006-06-01 00:00:00,Migration Adjustment ;  Australia ;,-9.6
+Unit,Net Overseas Migration ;  Australia ;,000
+Series Type,Net Overseas Migration ;  Australia ;,Original
+Data Type,Net Overseas Migration ;  Australia ;,FLOW
+Frequency,Net Overseas Migration ;  Australia ;,Quarter
+Collection Month,Net Overseas Migration ;  Australia ;,3
+Series Start,Net Overseas Migration ;  Australia ;,1981-06-01 00:00:00
+Series End,Net Overseas Migration ;  Australia ;,2024-12-01 00:00:00
+No. Obs,Net Overseas Migration ;  Australia ;,175
+Series ID,Net Overseas Migration ;  Australia ;,A2133254C
+1981-06-01 00:00:00,Net Overseas Migration ;  Australia ;,25.6
+1981-09-01 00:00:00,Net Overseas Migration ;  Australia ;,34.1
+1981-12-01 00:00:00,Net Overseas Migration ;  Australia ;,34.5
+1982-03-01 00:00:00,Net Overseas Migration ;  Australia ;,31.4
+1982-06-01 00:00:00,Net Overseas Migration ;  Australia ;,28.1
+1982-09-01 00:00:00,Net Overseas Migration ;  Australia ;,26.9
+1982-12-01 00:00:00,Net Overseas Migration ;  Australia ;,16.3
+1983-03-01 00:00:00,Net Overseas Migration ;  Australia ;,19.2
+1983-06-01 00:00:00,Net Overseas Migration ;  Australia ;,10.9
+1983-09-01 00:00:00,Net Overseas Migration ;  Australia ;,13.6
+1983-12-01 00:00:00,Net Overseas Migration ;  Australia ;,11.3
+1984-03-01 00:00:00,Net Overseas Migration ;  Australia ;,11
+1984-06-01 00:00:00,Net Overseas Migration ;  Australia ;,13.2
+1984-09-01 00:00:00,Net Overseas Migration ;  Australia ;,18.5
+1984-12-01 00:00:00,Net Overseas Migration ;  Australia ;,17.2
+1985-03-01 00:00:00,Net Overseas Migration ;  Australia ;,21.9
+1985-06-01 00:00:00,Net Overseas Migration ;  Australia ;,16.2
+1985-09-01 00:00:00,Net Overseas Migration ;  Australia ;,23.6
+1985-12-01 00:00:00,Net Overseas Migration ;  Australia ;,27.7
+1986-03-01 00:00:00,Net Overseas Migration ;  Australia ;,25.8
+1986-06-01 00:00:00,Net Overseas Migration ;  Australia ;,23.4
+1986-09-01 00:00:00,Net Overseas Migration ;  Australia ;,29.6
+1986-12-01 00:00:00,Net Overseas Migration ;  Australia ;,32
+1987-03-01 00:00:00,Net Overseas Migration ;  Australia ;,35.1
+1987-06-01 00:00:00,Net Overseas Migration ;  Australia ;,29.1
+1987-09-01 00:00:00,Net Overseas Migration ;  Australia ;,37.4
+1987-12-01 00:00:00,Net Overseas Migration ;  Australia ;,34.5
+1988-03-01 00:00:00,Net Overseas Migration ;  Australia ;,47.3
+1988-06-01 00:00:00,Net Overseas Migration ;  Australia ;,30.2
+1988-09-01 00:00:00,Net Overseas Migration ;  Australia ;,53.6
+1988-12-01 00:00:00,Net Overseas Migration ;  Australia ;,41.8
+1989-03-01 00:00:00,Net Overseas Migration ;  Australia ;,43
+1989-06-01 00:00:00,Net Overseas Migration ;  Australia ;,19.1
+1989-09-01 00:00:00,Net Overseas Migration ;  Australia ;,34.2
+1989-12-01 00:00:00,Net Overseas Migration ;  Australia ;,33.2
+1990-03-01 00:00:00,Net Overseas Migration ;  Australia ;,34.7
+1990-06-01 00:00:00,Net Overseas Migration ;  Australia ;,22.6
+1990-09-01 00:00:00,Net Overseas Migration ;  Australia ;,24.9
+1990-12-01 00:00:00,Net Overseas Migration ;  Australia ;,15
+1991-03-01 00:00:00,Net Overseas Migration ;  Australia ;,33.1
+1991-06-01 00:00:00,Net Overseas Migration ;  Australia ;,13.5
+1991-09-01 00:00:00,Net Overseas Migration ;  Australia ;,25.8
+1991-12-01 00:00:00,Net Overseas Migration ;  Australia ;,9.3
+1992-03-01 00:00:00,Net Overseas Migration ;  Australia ;,27.1
+1992-06-01 00:00:00,Net Overseas Migration ;  Australia ;,6.4
+1992-09-01 00:00:00,Net Overseas Migration ;  Australia ;,15.1
+1992-12-01 00:00:00,Net Overseas Migration ;  Australia ;,2.8
+1993-03-01 00:00:00,Net Overseas Migration ;  Australia ;,18.5
+1993-06-01 00:00:00,Net Overseas Migration ;  Australia ;,-6.3
+1993-09-01 00:00:00,Net Overseas Migration ;  Australia ;,17.8
+1993-12-01 00:00:00,Net Overseas Migration ;  Australia ;,4.9
+1994-03-01 00:00:00,Net Overseas Migration ;  Australia ;,19.5
+1994-06-01 00:00:00,Net Overseas Migration ;  Australia ;,4.4
+1994-09-01 00:00:00,Net Overseas Migration ;  Australia ;,27.8
+1994-12-01 00:00:00,Net Overseas Migration ;  Australia ;,3.9
+1995-03-01 00:00:00,Net Overseas Migration ;  Australia ;,24.7
+1995-06-01 00:00:00,Net Overseas Migration ;  Australia ;,23.8
+1995-09-01 00:00:00,Net Overseas Migration ;  Australia ;,29.1
+1995-12-01 00:00:00,Net Overseas Migration ;  Australia ;,29.2
+1996-03-01 00:00:00,Net Overseas Migration ;  Australia ;,25.1
+1996-06-01 00:00:00,Net Overseas Migration ;  Australia ;,20.6
+1996-09-01 00:00:00,Net Overseas Migration ;  Australia ;,32.3
+1996-12-01 00:00:00,Net Overseas Migration ;  Australia ;,19.4
+1997-03-01 00:00:00,Net Overseas Migration ;  Australia ;,29.4
+1997-06-01 00:00:00,Net Overseas Migration ;  Australia ;,6.1
+1997-09-01 00:00:00,Net Overseas Migration ;  Australia ;,22.9
+1997-12-01 00:00:00,Net Overseas Migration ;  Australia ;,14
+1998-03-01 00:00:00,Net Overseas Migration ;  Australia ;,33.7
+1998-06-01 00:00:00,Net Overseas Migration ;  Australia ;,8.5
+1998-09-01 00:00:00,Net Overseas Migration ;  Australia ;,26.5
+1998-12-01 00:00:00,Net Overseas Migration ;  Australia ;,20.1
+1999-03-01 00:00:00,Net Overseas Migration ;  Australia ;,35.1
+1999-06-01 00:00:00,Net Overseas Migration ;  Australia ;,14.8
+1999-09-01 00:00:00,Net Overseas Migration ;  Australia ;,29.7
+1999-12-01 00:00:00,Net Overseas Migration ;  Australia ;,24.6
+2000-03-01 00:00:00,Net Overseas Migration ;  Australia ;,37.4
+2000-06-01 00:00:00,Net Overseas Migration ;  Australia ;,15.5
+2000-09-01 00:00:00,Net Overseas Migration ;  Australia ;,31.9
+2000-12-01 00:00:00,Net Overseas Migration ;  Australia ;,26.6
+2001-03-01 00:00:00,Net Overseas Migration ;  Australia ;,54.8
+2001-06-01 00:00:00,Net Overseas Migration ;  Australia ;,22.4
+2001-09-01 00:00:00,Net Overseas Migration ;  Australia ;,27.7
+2001-12-01 00:00:00,Net Overseas Migration ;  Australia ;,31.2
+2002-03-01 00:00:00,Net Overseas Migration ;  Australia ;,36.4
+2002-06-01 00:00:00,Net Overseas Migration ;  Australia ;,15.3
+2002-09-01 00:00:00,Net Overseas Migration ;  Australia ;,29.9
+2002-12-01 00:00:00,Net Overseas Migration ;  Australia ;,28.9
+2003-03-01 00:00:00,Net Overseas Migration ;  Australia ;,41.6
+2003-06-01 00:00:00,Net Overseas Migration ;  Australia ;,16.1
+2003-09-01 00:00:00,Net Overseas Migration ;  Australia ;,27.2
+2003-12-01 00:00:00,Net Overseas Migration ;  Australia ;,25.2
+2004-03-01 00:00:00,Net Overseas Migration ;  Australia ;,35.5
+2004-06-01 00:00:00,Net Overseas Migration ;  Australia ;,12.1
+2004-09-01 00:00:00,Net Overseas Migration ;  Australia ;,30.4
+2004-12-01 00:00:00,Net Overseas Migration ;  Australia ;,28.5
+2005-03-01 00:00:00,Net Overseas Migration ;  Australia ;,47.1
+2005-06-01 00:00:00,Net Overseas Migration ;  Australia ;,17.8
+2005-09-01 00:00:00,Net Overseas Migration ;  Australia ;,37.4
+2005-12-01 00:00:00,Net Overseas Migration ;  Australia ;,34.7
+2006-03-01 00:00:00,Net Overseas Migration ;  Australia ;,53.2
+2006-06-01 00:00:00,Net Overseas Migration ;  Australia ;,21.4
+2006-09-01 00:00:00,Net Overseas Migration ;  Australia ;,56.9
+2006-12-01 00:00:00,Net Overseas Migration ;  Australia ;,50.6
+2007-03-01 00:00:00,Net Overseas Migration ;  Australia ;,76
+2007-06-01 00:00:00,Net Overseas Migration ;  Australia ;,49.2
+2007-09-01 00:00:00,Net Overseas Migration ;  Australia ;,62.8
+2007-12-01 00:00:00,Net Overseas Migration ;  Australia ;,56
+2008-03-01 00:00:00,Net Overseas Migration ;  Australia ;,93.5
+2008-06-01 00:00:00,Net Overseas Migration ;  Australia ;,65.1
+2008-09-01 00:00:00,Net Overseas Migration ;  Australia ;,84.1
+2008-12-01 00:00:00,Net Overseas Migration ;  Australia ;,73
+2009-03-01 00:00:00,Net Overseas Migration ;  Australia ;,88.7
+2009-06-01 00:00:00,Net Overseas Migration ;  Australia ;,54
+2009-09-01 00:00:00,Net Overseas Migration ;  Australia ;,62.5
+2009-12-01 00:00:00,Net Overseas Migration ;  Australia ;,41.7
+2010-03-01 00:00:00,Net Overseas Migration ;  Australia ;,59.9
+2010-06-01 00:00:00,Net Overseas Migration ;  Australia ;,32
+2010-09-01 00:00:00,Net Overseas Migration ;  Australia ;,41.8
+2010-12-01 00:00:00,Net Overseas Migration ;  Australia ;,38.4
+2011-03-01 00:00:00,Net Overseas Migration ;  Australia ;,61
+2011-06-01 00:00:00,Net Overseas Migration ;  Australia ;,39.2
+2011-09-01 00:00:00,Net Overseas Migration ;  Australia ;,55.4
+2011-12-01 00:00:00,Net Overseas Migration ;  Australia ;,50.6
+2012-03-01 00:00:00,Net Overseas Migration ;  Australia ;,74
+2012-06-01 00:00:00,Net Overseas Migration ;  Australia ;,51.9
+2012-09-01 00:00:00,Net Overseas Migration ;  Australia ;,63.3
+2012-12-01 00:00:00,Net Overseas Migration ;  Australia ;,51
+2013-03-01 00:00:00,Net Overseas Migration ;  Australia ;,71.2
+2013-06-01 00:00:00,Net Overseas Migration ;  Australia ;,44.8
+2013-09-01 00:00:00,Net Overseas Migration ;  Australia ;,54.2
+2013-12-01 00:00:00,Net Overseas Migration ;  Australia ;,38.2
+2014-03-01 00:00:00,Net Overseas Migration ;  Australia ;,65
+2014-06-01 00:00:00,Net Overseas Migration ;  Australia ;,30.4
+2014-09-01 00:00:00,Net Overseas Migration ;  Australia ;,50.2
+2014-12-01 00:00:00,Net Overseas Migration ;  Australia ;,36.8
+2015-03-01 00:00:00,Net Overseas Migration ;  Australia ;,63.8
+2015-06-01 00:00:00,Net Overseas Migration ;  Australia ;,33.3
+2015-09-01 00:00:00,Net Overseas Migration ;  Australia ;,50.4
+2015-12-01 00:00:00,Net Overseas Migration ;  Australia ;,39.3
+2016-03-01 00:00:00,Net Overseas Migration ;  Australia ;,73
+2016-06-01 00:00:00,Net Overseas Migration ;  Australia ;,43.6
+2016-09-01 00:00:00,Net Overseas Migration ;  Australia ;,73.7
+2016-12-01 00:00:00,Net Overseas Migration ;  Australia ;,53.6
+2017-03-01 00:00:00,Net Overseas Migration ;  Australia ;,88.8
+2017-06-01 00:00:00,Net Overseas Migration ;  Australia ;,47.3
+2017-09-01 00:00:00,Net Overseas Migration ;  Australia ;,69.7
+2017-12-01 00:00:00,Net Overseas Migration ;  Australia ;,35.8
+2018-03-01 00:00:00,Net Overseas Migration ;  Australia ;,85.1
+2018-06-01 00:00:00,Net Overseas Migration ;  Australia ;,47.6
+2018-09-01 00:00:00,Net Overseas Migration ;  Australia ;,73.8
+2018-12-01 00:00:00,Net Overseas Migration ;  Australia ;,45.7
+2019-03-01 00:00:00,Net Overseas Migration ;  Australia ;,83.6
+2019-06-01 00:00:00,Net Overseas Migration ;  Australia ;,38.2
+2019-09-01 00:00:00,Net Overseas Migration ;  Australia ;,74.5
+2019-12-01 00:00:00,Net Overseas Migration ;  Australia ;,51.3
+2020-03-01 00:00:00,Net Overseas Migration ;  Australia ;,75.2
+2020-06-01 00:00:00,Net Overseas Migration ;  Australia ;,-8.3
+2020-09-01 00:00:00,Net Overseas Migration ;  Australia ;,-42.6
+2020-12-01 00:00:00,Net Overseas Migration ;  Australia ;,-29.3
+2021-03-01 00:00:00,Net Overseas Migration ;  Australia ;,-14.2
+2021-06-01 00:00:00,Net Overseas Migration ;  Australia ;,1.1
+2021-09-01 00:00:00,Net Overseas Migration ;  Australia ;,-13
+2021-12-01 00:00:00,Net Overseas Migration ;  Australia ;,35.4
+2022-03-01 00:00:00,Net Overseas Migration ;  Australia ;,107.5
+2022-06-01 00:00:00,Net Overseas Migration ;  Australia ;,78
+2022-09-01 00:00:00,Net Overseas Migration ;  Australia ;,127.7
+2022-12-01 00:00:00,Net Overseas Migration ;  Australia ;,124.6
+2023-03-01 00:00:00,Net Overseas Migration ;  Australia ;,165.5
+2023-06-01 00:00:00,Net Overseas Migration ;  Australia ;,120.5
+2023-09-01 00:00:00,Net Overseas Migration ;  Australia ;,145.2
+2023-12-01 00:00:00,Net Overseas Migration ;  Australia ;,99.5
+2024-03-01 00:00:00,Net Overseas Migration ;  Australia ;,128.7
+2024-06-01 00:00:00,Net Overseas Migration ;  Australia ;,57.1
+2024-09-01 00:00:00,Net Overseas Migration ;  Australia ;,86.8
+2024-12-01 00:00:00,Net Overseas Migration ;  Australia ;,68
+Unit,Estimated Resident Population (ERP) ;  Australia ;,000
+Series Type,Estimated Resident Population (ERP) ;  Australia ;,Original
+Data Type,Estimated Resident Population (ERP) ;  Australia ;,STOCK_CLOSE
+Frequency,Estimated Resident Population (ERP) ;  Australia ;,Quarter
+Collection Month,Estimated Resident Population (ERP) ;  Australia ;,3
+Series Start,Estimated Resident Population (ERP) ;  Australia ;,1981-06-01 00:00:00
+Series End,Estimated Resident Population (ERP) ;  Australia ;,2024-12-01 00:00:00
+No. Obs,Estimated Resident Population (ERP) ;  Australia ;,175
+Series ID,Estimated Resident Population (ERP) ;  Australia ;,A2133251W
+1981-06-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,14923.3
+1981-09-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,14988.7
+1981-12-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,15054.1
+1982-03-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,15121.7
+1982-06-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,15184.2
+1982-09-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,15239.3
+1982-12-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,15288.9
+1983-03-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,15346.2
+1983-06-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,15393.5
+1983-09-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,15439
+1983-12-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,15483.5
+1984-03-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,15531.5
+1984-06-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,15579.4
+1984-09-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,15628.5
+1984-12-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,15677.3
+1985-03-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,15736.7
+1985-06-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,15788.3
+1985-09-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,15839.7
+1985-12-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,15900.6
+1986-03-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,15961.5
+1986-06-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,16018.4
+1986-09-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,16075
+1986-12-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,16138.8
+1987-03-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,16204
+1987-06-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,16263.9
+1987-09-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,16328.9
+1987-12-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,16394.6
+1988-03-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,16471.8
+1988-06-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,16532.2
+1988-09-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,16612.6
+1988-12-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,16687.1
+1989-03-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,16764
+1989-06-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,16814.4
+1989-09-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,16872
+1989-12-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,16936.7
+1990-03-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,17005.6
+1990-06-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,17065.1
+1990-09-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,17121.1
+1990-12-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,17169.8
+1991-03-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,17237.4
+1991-06-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,17284
+1991-09-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,17338.9
+1991-12-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,17379
+1992-03-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,17441.3
+1992-06-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,17478.6
+1992-09-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,17523.3
+1992-12-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,17557.1
+1993-03-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,17609.6
+1993-06-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,17634.8
+1993-09-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,17683.7
+1993-12-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,17719.1
+1994-03-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,17772.1
+1994-06-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,17805.5
+1994-09-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,17859.3
+1994-12-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,17893.4
+1995-03-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,17951.6
+1995-06-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,18004.9
+1995-09-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,18062.2
+1995-12-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,18119.6
+1996-03-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,18176
+1996-06-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,18224.8
+1996-09-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,18281.3
+1996-12-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,18330.1
+1997-03-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,18388.7
+1997-06-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,18423
+1997-09-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,18468.7
+1997-12-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,18510
+1998-03-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,18572.4
+1998-06-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,18607.6
+1998-09-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,18658.4
+1998-12-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,18705.6
+1999-03-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,18770.5
+1999-06-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,18812.3
+1999-09-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,18867.7
+1999-12-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,18919.2
+2000-03-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,18986.7
+2000-06-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,19028.8
+2000-09-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,19086
+2000-12-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,19141
+2001-03-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,19225.2
+2001-06-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,19274.7
+2001-09-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,19329.1
+2001-12-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,19386.5
+2002-03-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,19453.4
+2002-06-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,19495.2
+2002-09-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,19548.9
+2002-12-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,19605.4
+2003-03-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,19676.6
+2003-06-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,19720.7
+2003-09-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,19773.4
+2003-12-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,19827.2
+2004-03-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,19894.1
+2004-06-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,19932.7
+2004-09-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,19989.7
+2004-12-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,20046
+2005-03-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,20126.6
+2005-06-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,20176.8
+2005-09-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,20244.7
+2005-12-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,20311.5
+2006-03-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,20398.1
+2006-06-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,20451
+2006-09-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,20542.3
+2006-12-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,20627.5
+2007-03-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,20742.8
+2007-06-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,20827.6
+2007-09-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,20924.2
+2007-12-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,21016.1
+2008-03-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,21148.9
+2008-06-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,21249.2
+2008-09-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,21366
+2008-12-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,21475.6
+2009-03-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,21601.7
+2009-06-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,21691.7
+2009-09-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,21788.1
+2009-12-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,21865.6
+2010-03-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,21964.1
+2010-06-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,22031.8
+2010-09-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,22104.4
+2010-12-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,22172.5
+2011-03-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,22268.8
+2011-06-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,22340
+2011-09-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,22432.8
+2011-12-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,22522.2
+2012-03-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,22640.9
+2012-06-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,22733.5
+2012-09-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,22833.9
+2012-12-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,22928
+2013-03-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,23043
+2013-06-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,23128.1
+2013-09-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,23220.2
+2013-12-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,23297.8
+2014-03-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,23406.2
+2014-06-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,23475.7
+2014-09-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,23562.9
+2014-12-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,23640.3
+2015-03-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,23745.6
+2015-06-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,23816
+2015-09-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,23904.3
+2015-12-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,23984.6
+2016-03-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,24103.4
+2016-06-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,24190.9
+2016-09-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,24297.5
+2016-12-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,24385.1
+2017-03-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,24511.4
+2017-06-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,24592.6
+2017-09-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,24690.1
+2017-12-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,24759
+2018-03-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,24881.8
+2018-06-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,24963.3
+2018-09-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,25067.4
+2018-12-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,25146.1
+2019-03-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,25264.9
+2019-06-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,25334.8
+2019-09-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,25438.1
+2019-12-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,25520.5
+2020-03-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,25627.9
+2020-06-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,25649.2
+2020-09-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,25633.3
+2020-12-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,25630.7
+2021-03-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,25653
+2021-06-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,25685.4
+2021-09-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,25704.8
+2021-12-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,25773.8
+2022-03-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,25913
+2022-06-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,26018.7
+2022-09-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,26169.3
+2022-12-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,26320.3
+2023-03-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,26514.3
+2023-06-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,26659.9
+2023-09-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,26832.5
+2023-12-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,26954.1
+2024-03-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,27113.7
+2024-06-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,27196.8
+2024-09-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,27308.9
+2024-12-01 00:00:00,Estimated Resident Population (ERP) ;  Australia ;,27400
+Unit,ERP Change Over Previous Year ;  Australia ;,000
+Series Type,ERP Change Over Previous Year ;  Australia ;,Original
+Data Type,ERP Change Over Previous Year ;  Australia ;,FLOW
+Frequency,ERP Change Over Previous Year ;  Australia ;,Quarter
+Collection Month,ERP Change Over Previous Year ;  Australia ;,3
+Series Start,ERP Change Over Previous Year ;  Australia ;,1981-06-01 00:00:00
+Series End,ERP Change Over Previous Year ;  Australia ;,2024-12-01 00:00:00
+No. Obs,ERP Change Over Previous Year ;  Australia ;,175
+Series ID,ERP Change Over Previous Year ;  Australia ;,A2133255F
+1982-06-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,261
+1982-09-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,250.6
+1982-12-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,234.8
+1983-03-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,224.5
+1983-06-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,209.2
+1983-09-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,199.7
+1983-12-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,194.6
+1984-03-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,185.3
+1984-06-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,185.9
+1984-09-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,189.5
+1984-12-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,193.8
+1985-03-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,205.1
+1985-06-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,208.9
+1985-09-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,211.2
+1985-12-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,223.3
+1986-03-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,224.8
+1986-06-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,230
+1986-09-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,235.3
+1986-12-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,238.2
+1987-03-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,242.5
+1987-06-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,245.5
+1987-09-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,253.8
+1987-12-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,255.9
+1988-03-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,267.7
+1988-06-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,268.3
+1988-09-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,283.8
+1988-12-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,292.4
+1989-03-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,292.3
+1989-06-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,282.3
+1989-09-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,259.4
+1989-12-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,249.6
+1990-03-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,241.6
+1990-06-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,250.7
+1990-09-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,249.1
+1990-12-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,233
+1991-03-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,231.8
+1991-06-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,218.9
+1991-09-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,217.7
+1991-12-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,209.2
+1992-03-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,203.9
+1992-06-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,194.6
+1992-09-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,184.4
+1992-12-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,178.2
+1993-03-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,168.3
+1993-06-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,156.2
+1993-09-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,160.4
+1993-12-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,162
+1994-03-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,162.5
+1994-06-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,170.7
+1994-09-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,175.5
+1994-12-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,174.3
+1995-03-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,179.5
+1995-06-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,199.4
+1995-09-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,202.9
+1995-12-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,226.2
+1996-03-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,224.4
+1996-06-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,219.9
+1996-09-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,219.1
+1996-12-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,210.5
+1997-03-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,212.7
+1997-06-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,198.3
+1997-09-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,187.4
+1997-12-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,179.9
+1998-03-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,183.7
+1998-06-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,184.5
+1998-09-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,189.7
+1998-12-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,195.6
+1999-03-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,198.1
+1999-06-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,204.7
+1999-09-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,209.3
+1999-12-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,213.6
+2000-03-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,216.2
+2000-06-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,216.5
+2000-09-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,218.4
+2000-12-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,221.8
+2001-03-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,238.5
+2001-06-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,245.9
+2001-09-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,243.1
+2001-12-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,245.4
+2002-03-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,228.2
+2002-06-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,220.5
+2002-09-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,219.8
+2002-12-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,219
+2003-03-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,223.3
+2003-06-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,225.5
+2003-09-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,224.6
+2003-12-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,221.7
+2004-03-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,217.5
+2004-06-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,212
+2004-09-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,216.2
+2004-12-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,218.8
+2005-03-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,232.4
+2005-06-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,244.1
+2005-09-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,255.1
+2005-12-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,265.5
+2006-03-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,271.6
+2006-06-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,274.1
+2006-09-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,297.6
+2006-12-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,316
+2007-03-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,344.7
+2007-06-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,376.7
+2007-09-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,381.9
+2007-12-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,388.6
+2008-03-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,406.1
+2008-06-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,421.6
+2008-09-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,441.9
+2008-12-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,459.5
+2009-03-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,452.7
+2009-06-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,442.5
+2009-09-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,422
+2009-12-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,390
+2010-03-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,362.4
+2010-06-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,340.1
+2010-09-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,316.3
+2010-12-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,306.8
+2011-03-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,304.7
+2011-06-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,308.3
+2011-09-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,328.4
+2011-12-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,349.7
+2012-03-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,372.2
+2012-06-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,393.4
+2012-09-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,401.2
+2012-12-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,405.8
+2013-03-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,402.1
+2013-06-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,394.7
+2013-09-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,386.3
+2013-12-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,369.8
+2014-03-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,363.2
+2014-06-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,347.6
+2014-09-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,342.7
+2014-12-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,342.6
+2015-03-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,339.4
+2015-06-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,340.3
+2015-09-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,341.4
+2015-12-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,344.3
+2016-03-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,357.8
+2016-06-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,374.9
+2016-09-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,393.3
+2016-12-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,400.5
+2017-03-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,408
+2017-06-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,401.7
+2017-09-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,392.5
+2017-12-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,374
+2018-03-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,370.3
+2018-06-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,370.7
+2018-09-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,377.3
+2018-12-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,387.1
+2019-03-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,383.2
+2019-06-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,371.6
+2019-09-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,370.7
+2019-12-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,374.3
+2020-03-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,363
+2020-06-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,314.4
+2020-09-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,195.3
+2020-12-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,110.2
+2021-03-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,25.1
+2021-06-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,36.2
+2021-09-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,71.4
+2021-12-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,143.1
+2022-03-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,260
+2022-06-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,333.3
+2022-09-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,464.5
+2022-12-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,546.5
+2023-03-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,601.3
+2023-06-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,641.2
+2023-09-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,663.2
+2023-12-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,633.8
+2024-03-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,599.4
+2024-06-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,536.9
+2024-09-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,476.3
+2024-12-01 00:00:00,ERP Change Over Previous Year ;  Australia ;,445.9
+Unit,Percentage ERP Change Over Previous Year ;  Australia ;,Percent
+Series Type,Percentage ERP Change Over Previous Year ;  Australia ;,Original
+Data Type,Percentage ERP Change Over Previous Year ;  Australia ;,PERCENT
+Frequency,Percentage ERP Change Over Previous Year ;  Australia ;,Quarter
+Collection Month,Percentage ERP Change Over Previous Year ;  Australia ;,3
+Series Start,Percentage ERP Change Over Previous Year ;  Australia ;,1981-06-01 00:00:00
+Series End,Percentage ERP Change Over Previous Year ;  Australia ;,2024-12-01 00:00:00
+No. Obs,Percentage ERP Change Over Previous Year ;  Australia ;,175
+Series ID,Percentage ERP Change Over Previous Year ;  Australia ;,A2133256J
+1982-06-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.75
+1982-09-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.67
+1982-12-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.56
+1983-03-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.48
+1983-06-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.38
+1983-09-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.31
+1983-12-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.27
+1984-03-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.21
+1984-06-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.21
+1984-09-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.23
+1984-12-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.25
+1985-03-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.32
+1985-06-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.34
+1985-09-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.35
+1985-12-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.42
+1986-03-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.43
+1986-06-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.46
+1986-09-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.49
+1986-12-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.5
+1987-03-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.52
+1987-06-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.53
+1987-09-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.58
+1987-12-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.59
+1988-03-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.65
+1988-06-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.65
+1988-09-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.74
+1988-12-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.78
+1989-03-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.77
+1989-06-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.71
+1989-09-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.56
+1989-12-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.5
+1990-03-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.44
+1990-06-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.49
+1990-09-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.48
+1990-12-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.38
+1991-03-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.36
+1991-06-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.28
+1991-09-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.27
+1991-12-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.22
+1992-03-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.18
+1992-06-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.13
+1992-09-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.06
+1992-12-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.03
+1993-03-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,0.96
+1993-06-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,0.89
+1993-09-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,0.92
+1993-12-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,0.92
+1994-03-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,0.92
+1994-06-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,0.97
+1994-09-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,0.99
+1994-12-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,0.98
+1995-03-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.01
+1995-06-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.12
+1995-09-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.14
+1995-12-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.26
+1996-03-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.25
+1996-06-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.22
+1996-09-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.21
+1996-12-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.16
+1997-03-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.17
+1997-06-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.09
+1997-09-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.03
+1997-12-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,0.98
+1998-03-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1
+1998-06-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1
+1998-09-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.03
+1998-12-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.06
+1999-03-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.07
+1999-06-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.1
+1999-09-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.12
+1999-12-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.14
+2000-03-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.15
+2000-06-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.15
+2000-09-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.16
+2000-12-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.17
+2001-03-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.26
+2001-06-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.29
+2001-09-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.27
+2001-12-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.28
+2002-03-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.19
+2002-06-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.14
+2002-09-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.14
+2002-12-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.13
+2003-03-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.15
+2003-06-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.16
+2003-09-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.15
+2003-12-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.13
+2004-03-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.11
+2004-06-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.07
+2004-09-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.09
+2004-12-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.1
+2005-03-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.17
+2005-06-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.22
+2005-09-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.28
+2005-12-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.32
+2006-03-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.35
+2006-06-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.36
+2006-09-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.47
+2006-12-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.56
+2007-03-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.69
+2007-06-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.84
+2007-09-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.86
+2007-12-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.88
+2008-03-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.96
+2008-06-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,2.02
+2008-09-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,2.11
+2008-12-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,2.19
+2009-03-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,2.14
+2009-06-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,2.08
+2009-09-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.98
+2009-12-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.82
+2010-03-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.68
+2010-06-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.57
+2010-09-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.45
+2010-12-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.4
+2011-03-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.39
+2011-06-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.4
+2011-09-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.49
+2011-12-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.58
+2012-03-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.67
+2012-06-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.76
+2012-09-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.79
+2012-12-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.8
+2013-03-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.78
+2013-06-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.74
+2013-09-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.69
+2013-12-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.61
+2014-03-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.58
+2014-06-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.5
+2014-09-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.48
+2014-12-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.47
+2015-03-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.45
+2015-06-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.45
+2015-09-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.45
+2015-12-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.46
+2016-03-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.51
+2016-06-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.57
+2016-09-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.65
+2016-12-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.67
+2017-03-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.69
+2017-06-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.66
+2017-09-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.62
+2017-12-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.53
+2018-03-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.51
+2018-06-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.51
+2018-09-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.53
+2018-12-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.56
+2019-03-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.54
+2019-06-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.49
+2019-09-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.48
+2019-12-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.49
+2020-03-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.44
+2020-06-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.24
+2020-09-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,0.77
+2020-12-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,0.43
+2021-03-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,0.1
+2021-06-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,0.14
+2021-09-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,0.28
+2021-12-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,0.56
+2022-03-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.01
+2022-06-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.3
+2022-09-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.81
+2022-12-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,2.12
+2023-03-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,2.32
+2023-06-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,2.46
+2023-09-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,2.53
+2023-12-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,2.41
+2024-03-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,2.26
+2024-06-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,2.01
+2024-09-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.78
+2024-12-01 00:00:00,Percentage ERP Change Over Previous Year ;  Australia ;,1.65

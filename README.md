@@ -18,7 +18,7 @@
 | Estimated Resident Population (ERP)     | ABS    | Table 4               | Population growth tracking               |
 | Net Interstate Migration (NIM)          | ABS    | Table 4/supplementary | Migration trends affecting demand        |
 ```
-# Hypotheses
+# Hypothesis
  - We will test and visualize the following hypotheses:
 
  - Population Growth → Price Increase: States with higher population growth rates will experience faster housing price increases.
