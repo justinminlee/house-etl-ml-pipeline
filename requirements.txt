@@ -1,0 +1,26 @@
+pandas
+numpy
+
+# Database
+SQLAlchemy
+psycopg2-binary
+python-dotenv
+
+# Machine Learning
+scikit-learn
+xgboost
+prophet
+
+# Visualisation
+matplotlib
+seaborn
+
+# Jupyter Notebook (for ML exploration)
+jupyter
+
+# Streamlit dashboard 
+streamlit
+
+requests
+beautifulsoup4
+openpyxl
